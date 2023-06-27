@@ -1,10 +1,8 @@
 ﻿________________
 
-R・A・フィッシャー
-研究者のための統計的方法
-R.A.Fisher
-[]
-遠藤健児・鍋谷清治[訳]
-日本
-D
-0908
+基礎数学 2
+解析入門工
+杉浦光夫著!
+pretation of Computer Pro
+Abelson and Sussman
+学
