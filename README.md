@@ -50,7 +50,6 @@ Requirementで列挙したライブラリなどのインストール方法の説
 * hoshikairi00@gmail.com
 
 # License
-ライセンスを明示する
 
 "img_recognition" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
