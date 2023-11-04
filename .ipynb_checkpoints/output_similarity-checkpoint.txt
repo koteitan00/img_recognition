@@ -1,0 +1,1444 @@
+Text A (line 1): 機械振動学湖著
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.4000
+
+Text A (line 1): 機械振動学湖著
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.1096
+
+Text A (line 1): 機械振動学湖著
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.1096
+
+Text A (line 1): 機械振動学湖著
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.1096
+
+Text A (line 1): 機械振動学湖著
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.0556
+
+Text A (line 1): 機械振動学湖著
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.1379
+
+Text A (line 1): 機械振動学湖著
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.1493
+
+Text A (line 1): 機械振動学湖著
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.1493
+
+Text A (line 1): 機械振動学湖著
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.1493
+
+Text A (line 1): 機械振動学湖著
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.0769
+
+Text A (line 1): 機械振動学湖著
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.1667
+
+Text A (line 1): 機械振動学湖著
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.1404
+
+Text A (line 1): 機械振動学湖著
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.1951
+
+Text A (line 1): 機械振動学湖著
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.1053
+
+Text A (line 1): 機械振動学湖著
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0984
+
+Text A (line 1): 機械振動学湖著
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.0541
+
+Text A (line 1): 機械振動学湖著
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.0615
+
+Text A (line 1): 機械振動学湖著
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0714
+
+Text A (line 1): 機械振動学湖著
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0714
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.0952
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.3168
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.3168
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.3168
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.0600
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.0351
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0421
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0421
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0421
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.1250
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.1053
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.0941
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.1449
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.0606
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0899
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.0588
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.0430
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0238
+
+Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0000
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.0381
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.1119
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.1119
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.1119
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.8028
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.0606
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0730
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0730
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0730
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.0492
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.1186
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.0630
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.1261
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.1111
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0763
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.0556
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.1185
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0794
+
+Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0204
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.0400
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0682
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0682
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0682
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.0690
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.1364
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0976
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0976
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0976
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.0896
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.1270
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.0833
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.1786
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.1132
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.1316
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.0899
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.0500
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.1127
+
+Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0465
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.1429
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0638
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0638
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0638
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.0860
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.2800
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.4773
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.4545
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.4545
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.0548
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.2319
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.1795
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.2581
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.1017
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0976
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.0632
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.0698
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0779
+
+Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0408
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.1600
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0455
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0455
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0455
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.0460
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.3182
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.2927
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.2927
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.2927
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.1194
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.3175
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.2500
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.2143
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.1132
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.1053
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.0899
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.0750
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.1408
+
+Text A (line 6): CM・ビショップパターン認識と機械学習1:3
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0000
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.1905
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0500
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0500
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0500
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.0759
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.3889
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.4054
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.4054
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.4054
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.0678
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.2545
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.2188
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.2083
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.0889
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.1176
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.0494
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.0278
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0952
+
+Text A (line 7): パターン認識と機械学習による
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0000
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.0377
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.1099
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.1099
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.1099
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.0667
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.0426
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.2118
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.2118
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.2118
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.5429
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.1212
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.1067
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.1695
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.1071
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0506
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.0652
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.0723
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0811
+
+Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0000
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.0455
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0976
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0976
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0976
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.0494
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.0526
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0263
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0263
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0263
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.5574
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.0702
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.0909
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.2000
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.1277
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0571
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.0241
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.0270
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0923
+
+Text A (line 9): マルコフ連鎖から格子確率モデルへ
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0000
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.1739
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0476
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0476
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0476
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.1205
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.1500
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.2051
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.1795
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.1795
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.0635
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.5424
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.1471
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.1923
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.0816
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0833
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.0706
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.0263
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0597
+
+Text A (line 10): スパース性に基づく機械学習新同亮太上
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0513
+
+Text A (line 11): モジュラ化
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.0606
+
+Text A (line 11): モジュラ化
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0282
+
+Text A (line 11): モジュラ化
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0282
+
+Text A (line 11): モジュラ化
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0282
+
+Text A (line 11): モジュラ化
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.0571
+
+Text A (line 11): モジュラ化
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.0741
+
+Text A (line 11): モジュラ化
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0308
+
+Text A (line 11): モジュラ化
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0308
+
+Text A (line 11): モジュラ化
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0308
+
+Text A (line 11): モジュラ化
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.1200
+
+Text A (line 11): モジュラ化
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.0435
+
+Text A (line 11): モジュラ化
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.2182
+
+Text A (line 11): モジュラ化
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.1026
+
+Text A (line 11): モジュラ化
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.1111
+
+Text A (line 11): モジュラ化
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0678
+
+Text A (line 11): モジュラ化
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.0278
+
+Text A (line 11): モジュラ化
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.0635
+
+Text A (line 11): モジュラ化
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0741
+
+Text A (line 11): モジュラ化
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0000
+
+Text A (line 12): 
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.0714
+
+Text A (line 12): 
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0303
+
+Text A (line 12): 
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0303
+
+Text A (line 12): 
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0303
+
+Text A (line 12): 
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.0308
+
+Text A (line 12): 
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.0909
+
+Text A (line 12): 
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0333
+
+Text A (line 12): 
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0333
+
+Text A (line 12): 
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0333
+
+Text A (line 12): 
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.0444
+
+Text A (line 12): 
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.0488
+
+Text A (line 12): 
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.0400
+
+Text A (line 12): 
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.0588
+
+Text A (line 12): 
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.0645
+
+Text A (line 12): 
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0370
+
+Text A (line 12): 
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.0299
+
+Text A (line 12): 
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.0345
+
+Text A (line 12): 
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0408
+
+Text A (line 12): 
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0000
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.0500
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0513
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0513
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0513
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.0779
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.1765
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.1111
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.1111
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.1111
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.0702
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.1887
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.1290
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.1739
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.1395
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0909
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.1266
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.0286
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0984
+
+Text A (line 13): オペレーションズリサーチ
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0000
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.0400
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0909
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0909
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0909
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.1149
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.0909
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0488
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0488
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0488
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.1194
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.1270
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.1389
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.1786
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.6415
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.1316
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.1348
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.0500
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0845
+
+Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0465
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.0930
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.1235
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.1235
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.1235
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.0750
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.2162
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0800
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0800
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0800
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.0667
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.1429
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.1231
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.1633
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.1304
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.4638
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.0732
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.0274
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.1250
+
+Text A (line 15): 生物の力学系ポール・ウォルトン
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0556
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.0238
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0820
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0820
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0820
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.0826
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.0513
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0517
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0517
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0517
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.0594
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.1031
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.0943
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.1333
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.0690
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0909
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.6829
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.1053
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0571
+
+Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0260
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.0286
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0741
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0741
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0741
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.1121
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.0312
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0392
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0392
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0392
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.0690
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.0723
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.1087
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.0789
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.0548
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0208
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.1468
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.8000
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0440
+
+Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0000
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.0339
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0825
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0825
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0825
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.0625
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.1132
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.1099
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.1099
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.1099
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.0789
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.0556
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.0741
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.0923
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.1613
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.1176
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.0816
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.0674
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.6750
+
+Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0385
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Similarity Ratio: 0.1000
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0769
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0769
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Similarity Ratio: 0.0769
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
+Similarity Ratio: 0.0260
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 6): はじめてのパターン認識平井有三著8497
+Similarity Ratio: 0.1176
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 7): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0833
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 8): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0833
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
+Similarity Ratio: 0.0833
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 10): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Similarity Ratio: 0.0702
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 11): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Similarity Ratio: 0.0755
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 12): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
+Similarity Ratio: 0.0645
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 13): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
+Similarity Ratio: 0.0870
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 14): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
+Similarity Ratio: 0.0930
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 15): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0909
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 16): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
+Similarity Ratio: 0.1013
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 17): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Similarity Ratio: 0.0571
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0984
+
+Text A (line 19): 学理科系の作文技術木下R
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.6061
+
