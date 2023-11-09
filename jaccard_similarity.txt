@@ -1,1596 +1,1440 @@
-Text A (line 1): 機械振動学湖著
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.2308
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.5517
 
-Text A (line 1): 機械振動学湖著
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
 Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0556
+Jaccard Coefficient: 0.0462
 
-Text A (line 1): 機械振動学湖著
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0556
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.2000
 
-Text A (line 1): 機械振動学湖著
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0556
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.0408
 
-Text A (line 1): 機械振動学湖著
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.0182
-
-Text A (line 1): 機械振動学湖著
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.0263
-
-Text A (line 1): 機械振動学湖著
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.0385
-
-Text A (line 1): 機械振動学湖著
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0690
-
-Text A (line 1): 機械振動学湖著
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0690
-
-Text A (line 1): 機械振動学湖著
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0690
-
-Text A (line 1): 機械振動学湖著
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.0222
-
-Text A (line 1): 機械振動学湖著
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
 Jaccard Coefficient: 0.0789
 
-Text A (line 1): 機械振動学湖著
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.0698
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0789
 
-Text A (line 1): 機械振動学湖著
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.0938
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0789
 
-Text A (line 1): 機械振動学湖著
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.0435
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.1538
 
-Text A (line 1): 機械振動学湖著
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.0294
-
-Text A (line 1): 機械振動学湖著
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.0408
-
-Text A (line 1): 機械振動学湖著
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.0169
-
-Text A (line 1): 機械振動学湖著
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.0204
-
-Text A (line 1): 機械振動学湖著
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.0208
-
-Text A (line 1): 機械振動学湖著
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0385
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0513
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.2941
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.2941
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.2941
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.0656
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
 Jaccard Coefficient: 0.0000
 
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.0000
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0290
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0290
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0290
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.0784
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.0870
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.0577
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.1000
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.0364
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.0476
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.0714
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.0455
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.0172
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.0000
-
-Text A (line 2): ロボット制御から動力学までロボット制御基礎から動力学まで浅ロボット制御
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0000
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0120
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.1122
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.1122
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.1122
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.7143
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.1667
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.0260
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.1287
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.1287
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.1287
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.0538
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.1071
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.1136
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.1154
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.1111
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.1154
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.1075
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.1667
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.1333
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.0860
-
-Text A (line 3): book情報理論と符号理論Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEchoGoogleHuneジョーンズポンダッドw.マイナビ
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0128
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0000
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0317
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0317
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0317
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.0323
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.3429
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.0606
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.1290
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.1290
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.1290
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.0588
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.1136
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.1489
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.1316
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.1429
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.0488
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.0727
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.0794
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.0175
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.0364
-
-Text A (line 4): P情報理論と符号理論ジョーンズTMジョーンズ
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0294
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0600
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0541
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0541
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0541
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.1000
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.1321
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.1707
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.4561
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.4310
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.4310
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.0469
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.2917
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.2182
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.2444
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.1129
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.0566
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.0909
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.0946
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.0441
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.1111
-
-Text A (line 5): 29パターン認識と機械学習上CM・ビショップベイズによる
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0213
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0682
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0588
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0588
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0588
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.0758
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.1250
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.1667
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.3276
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.3276
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.3276
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.0750
+
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.0976
+
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
 Jaccard Coefficient: 0.0517
 
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.2444
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.2200
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.2500
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.1053
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.0417
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.1000
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.0870
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.0484
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.0847
-
-Text A (line 6): CM・ビショップパターン認識と機械学習1:3
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0000
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0833
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0323
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0323
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0323
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.0500
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.0698
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.2143
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.2545
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.2545
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.2545
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.0192
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.1707
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.1277
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.1351
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.0577
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.0244
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.0741
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.0469
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.0000
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.0566
-
-Text A (line 7): パターン認識と機械学習による
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0000
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0000
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0725
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0725
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0725
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.0580
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.0769
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.0000
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.1127
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.1127
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.1127
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.3696
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.1373
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.1455
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.2093
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.0656
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.0612
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.0968
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.0405
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.0469
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.1000
-
-Text A (line 8): マルコフ連鎖から格子確率モデルへしCM・ビショップ
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0000
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0000
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0484
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0484
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0484
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.0159
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.0217
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.0000
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0000
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0000
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0000
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.3846
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.0426
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.0588
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.1026
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.0182
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.0488
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.0536
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.0000
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.0000
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.0755
-
-Text A (line 9): マルコフ連鎖から格子確率モデルへ
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0000
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0769
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0469
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0469
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0469
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.0476
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.0556
+
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
 Jaccard Coefficient: 0.0208
 
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.0571
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.1250
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.1077
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.1077
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.0182
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.3784
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.0980
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.1250
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.0357
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.0227
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.0517
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.0294
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.0000
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.0172
-
-Text A (line 10): スパース性に基づく機械学習新同亮太上
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0278
-
-Text A (line 11): モジュラ化
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0000
-
-Text A (line 11): モジュラ化
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0000
-
-Text A (line 11): モジュラ化
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0000
-
-Text A (line 11): モジュラ化
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0000
-
-Text A (line 11): モジュラ化
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.0189
-
-Text A (line 11): モジュラ化
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.0278
-
-Text A (line 11): モジュラ化
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.0000
-
-Text A (line 11): モジュラ化
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0000
-
-Text A (line 11): モジュラ化
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0000
-
-Text A (line 11): モジュラ化
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0000
-
-Text A (line 11): モジュラ化
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.0476
-
-Text A (line 11): モジュラ化
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.0000
-
-Text A (line 11): モジュラ化
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.1282
-
-Text A (line 11): モジュラ化
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.0312
-
-Text A (line 11): モジュラ化
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.0000
-
-Text A (line 11): モジュラ化
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.0312
-
-Text A (line 11): モジュラ化
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.0208
-
-Text A (line 11): モジュラ化
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.0000
-
-Text A (line 11): モジュラ化
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.0213
-
-Text A (line 11): モジュラ化
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.0444
-
-Text A (line 11): モジュラ化
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0000
-
-Text A (line 12): a
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0000
-
-Text A (line 12): a
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0200
-
-Text A (line 12): a
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0200
-
-Text A (line 12): a
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0200
-
-Text A (line 12): a
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.0204
-
-Text A (line 12): a
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.0000
-
-Text A (line 12): a
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.0000
-
-Text A (line 12): a
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0000
-
-Text A (line 12): a
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0000
-
-Text A (line 12): a
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0000
-
-Text A (line 12): a
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.0000
-
-Text A (line 12): a
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.0000
-
-Text A (line 12): a
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.0000
-
-Text A (line 12): a
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.0000
-
-Text A (line 12): a
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.0000
-
-Text A (line 12): a
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.0000
-
-Text A (line 12): a
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.0000
-
-Text A (line 12): a
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.0189
-
-Text A (line 12): a
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.0000
-
-Text A (line 12): a
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.0000
-
-Text A (line 12): a
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0000
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0000
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0167
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0167
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0167
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.0345
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.1026
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.0690
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0820
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0820
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0820
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.0204
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.1250
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.1111
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.1471
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.2683
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.0541
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.0377
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.0667
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.0000
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.0600
-
-Text A (line 13): オペレーションズリサーチ
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0000
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0000
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0746
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0746
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0746
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.0923
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.0385
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.0500
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0405
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0405
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0405
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.0702
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.0769
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.1091
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.1111
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.0500
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.4706
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.1000
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.1029
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.0156
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.0492
-
-Text A (line 14): :0.41ネトハッカーズマニュアル西林小野史
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0244
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
 Jaccard Coefficient: 0.0263
 
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0847
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0847
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0847
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.0678
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.0698
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.0968
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0615
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0615
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0615
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.0600
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.0667
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.0600
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.1053
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.1000
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.0769
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.3182
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.0469
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.0000
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.0769
-
-Text A (line 15): 生物の力学系ポール・ウォルトン
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0625
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0000
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.1875
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.1875
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.1875
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.1605
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.0548
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.0484
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0753
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0753
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0753
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
 Jaccard Coefficient: 0.0244
 
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.0822
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.0633
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.1061
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.0617
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.1587
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
 Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.0595
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.7500
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.1892
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.0482
-
-Text A (line 16): 40RobertFaludiMake:PROJECTSXBeeで作るワイヤレスセンサーネットワークKORELLY
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0317
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0000
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.1250
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.1250
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.1250
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.1940
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.0161
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.0000
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0238
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0238
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0238
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.0294
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.0317
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.0606
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.0351
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.0141
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.0727
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.0000
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.1831
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.6444
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.0282
-
-Text A (line 17): ZigBeeWi-FiBluetoothESEArduinoプログラム全集野CQ出版
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0000
-
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0000
-
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0833
-
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0833
-
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0833
-
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.0694
-
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.0526
-
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.0667
-
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0921
-
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0921
-
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0921
-
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.1356
-
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
 Jaccard Coefficient: 0.0690
 
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.0984
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0714
 
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.0980
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0270
 
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.0952
+Text A (line 1): 統計のための行列代数DAハーヴィル:8
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0455
 
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.0980
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.2308
 
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.0909
-
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.1096
-
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.0290
-
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Jaccard Coefficient: 0.4894
-
-Text A (line 18): デクステリティ巧みさとそのニコライ・ベルンシュタインKSTRE
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.0213
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 1): 機械振動学佐藤秀紀岡部佐規一共著岩田佳雄元工業調査会
-Jaccard Coefficient: 0.0278
-
-Text A (line 19): 学理科系の作文技術木下R
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
 Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0333
+Jaccard Coefficient: 0.0597
 
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 3): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0333
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.5000
 
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 4): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Jaccard Coefficient: 0.0333
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 5): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHomeポンダッド[著]W.マイナビ
-Jaccard Coefficient: 0.0000
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 6): 情報理論と符合理論G・A・ジョーンズ著J・M・ジョーンズ一樂重雄/川原正治/川原雅子訳丸善
-Jaccard Coefficient: 0.0233
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 7): はじめてのパターン認識平井有三著8497
-Jaccard Coefficient: 0.0323
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 8): パターン認識と機械学習上ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0308
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 9): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0469
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 10): パターン認識と機械学習下ベイズ理論による統計的予測C・M・ビショップ著元田浩栗田多喜夫樋口知之松本裕治村田昇監訳丸善
-Jaccard Coefficient: 0.0469
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 11): マルコフ連鎖から格子確率モデルへR・B・シナジ著現代確率論の基礎と応用今野紀雄林俊一訳
-Jaccard Coefficient: 0.0408
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 12): 2学習MLPシリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
-Jaccard Coefficient: 0.0222
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 13): MLPP機械学習シリーズプロフェッショナル劣モジュラ最適化と機械学習河原吉伸永野清仁講談社講談社
-Jaccard Coefficient: 0.0200
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 14): MLPP機械学習プロフェッショナルシリーズトピックモデル岩田具治
-Jaccard Coefficient: 0.0256
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 15): 情報・技術経営シリーズ4経営情報処理のためのオペレーションズリサーチ工学博士栗原謙三工学博士明石吉三共著コロナ社
-Jaccard Coefficient: 0.1042
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 16): キネクトハッカーズマニュアル西林孝＋小林憲史著Rutles
-Jaccard Coefficient: 0.0256
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Jaccard Coefficient: 0.0769
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 18): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'REILLY
-Jaccard Coefficient: 0.0484
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 19): ZigBee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
-Jaccard Coefficient: 0.0185
-
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 20): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
 Jaccard Coefficient: 0.0385
 
-Text A (line 19): 学理科系の作文技術木下R
-Text B (line 21): 理科系の作文技術木下是雄著中公新書624
-Jaccard Coefficient: 0.4545
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0233
+
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0233
+
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0233
+
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.1163
+
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.0698
+
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.1163
+
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.0847
+
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.0196
+
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.0227
+
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.0656
+
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0862
+
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0250
+
+Text A (line 2): フィッシャー研究者のための統計的方法RAF・
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0889
+
+Text A (line 3): 力学系
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.0000
+
+Text A (line 3): 力学系
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Jaccard Coefficient: 0.0392
+
+Text A (line 3): 力学系
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.0000
+
+Text A (line 3): 力学系
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.0909
+
+Text A (line 3): 力学系
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 3): 力学系
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 3): 力学系
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 3): 力学系
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.0345
+
+Text A (line 3): 力学系
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 3): 力学系
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.0000
+
+Text A (line 3): 力学系
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.0345
+
+Text A (line 3): 力学系
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.0222
+
+Text A (line 3): 力学系
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.0455
+
+Text A (line 3): 力学系
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.0303
+
+Text A (line 3): 力学系
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.0435
+
+Text A (line 3): 力学系
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.0000
+
+Text A (line 3): 力学系
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.0682
+
+Text A (line 3): 力学系
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0000
+
+Text A (line 3): 力学系
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0455
+
+Text A (line 3): 力学系
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0333
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.0571
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Jaccard Coefficient: 0.0169
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.0000
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.0238
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.4348
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.4348
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.4348
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.0278
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.0294
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.0278
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.0392
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.1538
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.0250
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.0333
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.0000
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.0588
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0400
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0000
+
+Text A (line 4): ポイント線形代数四ツ
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Jaccard Coefficient: 0.0200
+
+Text A (line 5): a
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.0233
+
+Text A (line 5): a
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.0417
+
+Text A (line 5): a
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0000
+
+Text A (line 5): a
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.0811
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Jaccard Coefficient: 0.0328
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.0377
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.0222
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.5652
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.5652
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.5652
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.0526
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.0270
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.0526
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.0566
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.1379
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.0233
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.0303
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.0000
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.0755
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0377
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0000
+
+Text A (line 6): キーポイント線形代数四ツ谷
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0513
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.1282
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Jaccard Coefficient: 0.0635
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.0926
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.0417
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0526
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0526
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0526
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.5714
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.1351
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.1892
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.0909
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.1212
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.0909
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.1176
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.0000
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.0702
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0536
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0571
+
+Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.1250
+
+Text A (line 8): a
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.0000
+
+Text A (line 8): a
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Jaccard Coefficient: 0.0200
+
+Text A (line 8): a
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.0000
+
+Text A (line 8): a
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.0000
+
+Text A (line 8): a
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 8): a
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 8): a
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 8): a
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.0000
+
+Text A (line 8): a
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 8): a
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.0000
+
+Text A (line 8): a
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.0000
+
+Text A (line 8): a
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.0233
+
+Text A (line 8): a
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 8): a
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 8): a
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 8): a
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.0417
+
+Text A (line 8): a
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.0000
+
+Text A (line 8): a
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0000
+
+Text A (line 8): a
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0000
+
+Text A (line 8): a
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.0571
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Jaccard Coefficient: 0.0000
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.0400
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.0000
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0312
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0312
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0312
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.0882
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.4000
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.2759
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.0392
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.0714
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.0690
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.0000
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.0000
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0400
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0000
+
+Text A (line 9): 入門ベイズ統計松原望
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0270
+
+Text A (line 10): ベイズ統計学
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.0645
+
+Text A (line 10): ベイズ統計学
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Jaccard Coefficient: 0.0182
+
+Text A (line 10): ベイズ統計学
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.0435
+
+Text A (line 10): ベイズ統計学
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.0263
+
+Text A (line 10): ベイズ統計学
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0357
+
+Text A (line 10): ベイズ統計学
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0357
+
+Text A (line 10): ベイズ統計学
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0357
+
+Text A (line 10): ベイズ統計学
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.1379
+
+Text A (line 10): ベイズ統計学
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 10): ベイズ統計学
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.1923
+
+Text A (line 10): ベイズ統計学
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.2222
+
+Text A (line 10): ベイズ統計学
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.0652
+
+Text A (line 10): ベイズ統計学
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.0400
+
+Text A (line 10): ベイズ統計学
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.0278
+
+Text A (line 10): ベイズ統計学
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.0385
+
+Text A (line 10): ベイズ統計学
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.0000
+
+Text A (line 10): ベイズ統計学
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.0204
+
+Text A (line 10): ベイズ統計学
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0435
+
+Text A (line 10): ベイズ統計学
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0000
+
+Text A (line 10): ベイズ統計学
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0625
+
+Text A (line 11): 人工生命ENER
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.0000
+
+Text A (line 11): 人工生命ENER
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Jaccard Coefficient: 0.0179
+
+Text A (line 11): 人工生命ENER
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.0208
+
+Text A (line 11): 人工生命ENER
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.0526
+
+Text A (line 11): 人工生命ENER
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 11): 人工生命ENER
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 11): 人工生命ENER
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 11): 人工生命ENER
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.0000
+
+Text A (line 11): 人工生命ENER
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 11): 人工生命ENER
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.0000
+
+Text A (line 11): 人工生命ENER
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.0000
+
+Text A (line 11): 人工生命ENER
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.0870
+
+Text A (line 11): 人工生命ENER
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 11): 人工生命ENER
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 11): 人工生命ENER
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 11): 人工生命ENER
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.0333
+
+Text A (line 11): 人工生命ENER
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.0200
+
+Text A (line 11): 人工生命ENER
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0426
+
+Text A (line 11): 人工生命ENER
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0000
+
+Text A (line 11): 人工生命ENER
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.1111
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Jaccard Coefficient: 0.0161
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.0377
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.0222
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0909
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0909
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0909
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.0526
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.0857
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.0000
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.0182
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.2692
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.0476
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.1333
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.0000
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.0179
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0577
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0312
+
+Text A (line 12): 一一'線型代数入門市藤正接著
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.0217
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Jaccard Coefficient: 0.0000
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.0000
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.0000
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.0000
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.0000
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.0000
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.0000
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.0256
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.2143
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.0789
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.0000
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.0159
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0164
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0000
+
+Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0213
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.0000
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Jaccard Coefficient: 0.0000
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.0000
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.0250
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.0000
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.0645
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.0000
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.0000
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.0769
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.0541
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.1600
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.0323
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.0000
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0000
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0000
+
+Text A (line 14): *嗎?解析入門I
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.0200
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Jaccard Coefficient: 0.1746
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.0820
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.0962
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.0000
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0238
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.0000
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.0000
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.1552
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.9200
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.0000
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0154
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0000
+
+Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0196
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.1064
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Jaccard Coefficient: 0.0870
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.0635
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.1154
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0909
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0909
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0909
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.1304
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.0417
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.0400
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.1333
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.0227
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.0769
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.0455
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.0000
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.5000
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0984
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0714
+
+Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0600
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.0851
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Jaccard Coefficient: 0.0571
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.0645
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.0364
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0444
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0444
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0444
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.1333
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0238
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.0889
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.1087
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.1356
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.0185
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.0000
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.0968
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.5349
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.0233
+
+Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0612
+
+Text A (line 18): 理科系の作文技術
+Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
+Jaccard Coefficient: 0.0294
+
+Text A (line 18): 理科系の作文技術
+Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Jaccard Coefficient: 0.0000
+
+Text A (line 18): 理科系の作文技術
+Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
+Jaccard Coefficient: 0.0204
+
+Text A (line 18): 理科系の作文技術
+Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Jaccard Coefficient: 0.0250
+
+Text A (line 18): 理科系の作文技術
+Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 18): 理科系の作文技術
+Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 18): 理科系の作文技術
+Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Jaccard Coefficient: 0.0000
+
+Text A (line 18): 理科系の作文技術
+Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Jaccard Coefficient: 0.0606
+
+Text A (line 18): 理科系の作文技術
+Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Jaccard Coefficient: 0.0000
+
+Text A (line 18): 理科系の作文技術
+Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Jaccard Coefficient: 0.0645
+
+Text A (line 18): 理科系の作文技術
+Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Jaccard Coefficient: 0.0294
+
+Text A (line 18): 理科系の作文技術
+Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Jaccard Coefficient: 0.0000
+
+Text A (line 18): 理科系の作文技術
+Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 18): 理科系の作文技術
+Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 18): 理科系の作文技術
+Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Jaccard Coefficient: 0.0000
+
+Text A (line 18): 理科系の作文技術
+Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Jaccard Coefficient: 0.0000
+
+Text A (line 18): 理科系の作文技術
+Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Jaccard Coefficient: 0.0612
+
+Text A (line 18): 理科系の作文技術
+Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Jaccard Coefficient: 0.0204
+
+Text A (line 18): 理科系の作文技術
+Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Jaccard Coefficient: 0.4000
+
+Text A (line 18): 理科系の作文技術
+Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Jaccard Coefficient: 0.0000
 
