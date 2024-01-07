@@ -1,1280 +1,2352 @@
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Similarity Ratio: 0.0800
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Similarity Ratio: 0.0941
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Similarity Ratio: 0.0556
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Similarity Ratio: 0.3548
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.3182
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.3182
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.3182
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Similarity Ratio: 0.0769
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
-Similarity Ratio: 0.0889
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Similarity Ratio: 0.0870
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
-Similarity Ratio: 0.0755
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Similarity Ratio: 0.0571
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Similarity Ratio: 0.0930
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
-Similarity Ratio: 0.1091
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Similarity Ratio: 0.0930
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
-Similarity Ratio: 0.0381
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Similarity Ratio: 0.1644
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Similarity Ratio: 0.1471
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 19): 理科系の作文技術木下是雄著中公新書624
-Similarity Ratio: 0.1463
-
-Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
-Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
-Similarity Ratio: 0.0784
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Similarity Ratio: 0.1224
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Similarity Ratio: 0.0476
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Similarity Ratio: 0.0845
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Similarity Ratio: 0.0656
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.7442
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.7442
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.7442
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Similarity Ratio: 0.1176
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
-Similarity Ratio: 0.0455
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Similarity Ratio: 0.0889
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
-Similarity Ratio: 0.1154
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Similarity Ratio: 0.0870
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Similarity Ratio: 0.2381
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
-Similarity Ratio: 0.0741
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Similarity Ratio: 0.0952
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
-Similarity Ratio: 0.0192
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Similarity Ratio: 0.0833
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Similarity Ratio: 0.0896
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 19): 理科系の作文技術木下是雄著中公新書624
-Similarity Ratio: 0.0500
-
-Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
-Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
-Similarity Ratio: 0.0800
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Similarity Ratio: 0.1481
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Similarity Ratio: 0.0449
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Similarity Ratio: 0.0789
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Similarity Ratio: 0.0909
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.6667
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.6667
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.6667
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Similarity Ratio: 0.1071
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
-Similarity Ratio: 0.0408
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Similarity Ratio: 0.0800
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
-Similarity Ratio: 0.1053
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Similarity Ratio: 0.1081
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Similarity Ratio: 0.2128
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
-Similarity Ratio: 0.0678
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Similarity Ratio: 0.0851
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
-Similarity Ratio: 0.0183
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Similarity Ratio: 0.0779
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Similarity Ratio: 0.0833
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 19): 理科系の作文技術木下是雄著中公新書624
-Similarity Ratio: 0.0444
-
-Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
-Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
-Similarity Ratio: 0.0727
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Similarity Ratio: 0.1132
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Similarity Ratio: 0.0455
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Similarity Ratio: 0.0800
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Similarity Ratio: 0.1231
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.4681
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.4681
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.4681
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Similarity Ratio: 0.1091
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
-Similarity Ratio: 0.1250
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Similarity Ratio: 0.0816
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
-Similarity Ratio: 0.1071
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Similarity Ratio: 0.1096
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Similarity Ratio: 0.2174
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
-Similarity Ratio: 0.0690
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Similarity Ratio: 0.0870
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
-Similarity Ratio: 0.0741
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Similarity Ratio: 0.0789
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Similarity Ratio: 0.1408
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 19): 理科系の作文技術木下是雄著中公新書624
-Similarity Ratio: 0.0455
-
-Text A (line 4): と化SEGAITAINEキーポイント線形代数
-Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
-Similarity Ratio: 0.0370
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Similarity Ratio: 0.1702
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Similarity Ratio: 0.0732
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Similarity Ratio: 0.1449
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Similarity Ratio: 0.1017
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.1463
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.1463
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.1463
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Similarity Ratio: 0.6939
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
-Similarity Ratio: 0.0476
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Similarity Ratio: 0.2326
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
-Similarity Ratio: 0.3200
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Similarity Ratio: 0.1791
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Similarity Ratio: 0.2500
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
-Similarity Ratio: 0.1923
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Similarity Ratio: 0.2500
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
-Similarity Ratio: 0.0196
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Similarity Ratio: 0.0571
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Similarity Ratio: 0.0615
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 19): 理科系の作文技術木下是雄著中公新書624
-Similarity Ratio: 0.1579
-
-Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
-Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
-Similarity Ratio: 0.2083
-
-Text A (line 6): 門ベイズ充十
-Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Similarity Ratio: 0.0541
-
-Text A (line 6): 門ベイズ充十
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Similarity Ratio: 0.0278
-
-Text A (line 6): 門ベイズ充十
-Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Similarity Ratio: 0.0339
-
-Text A (line 6): 門ベイズ充十
-Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Similarity Ratio: 0.0408
-
-Text A (line 6): 門ベイズ充十
-Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.1290
-
-Text A (line 6): 門ベイズ充十
-Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.1290
-
-Text A (line 6): 門ベイズ充十
-Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.1290
-
-Text A (line 6): 門ベイズ充十
-Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Similarity Ratio: 0.1026
-
-Text A (line 6): 門ベイズ充十
-Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 1): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Similarity Ratio: 0.0708
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 2): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0421
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 3): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0421
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 4): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0421
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 5): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Similarity Ratio: 0.0971
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 6): MLP異常検知と変化検知井手剛杉山将講談社講談社
 Similarity Ratio: 0.0625
 
-Text A (line 6): 門ベイズ充十
-Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Similarity Ratio: 0.3030
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 7): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Similarity Ratio: 0.0825
 
-Text A (line 6): 門ベイズ充十
-Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
-Similarity Ratio: 0.2000
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 8): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Similarity Ratio: 0.0577
 
-Text A (line 6): 門ベイズ充十
-Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Similarity Ratio: 0.1053
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 9): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Similarity Ratio: 0.0661
 
-Text A (line 6): 門ベイズ充十
-Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Similarity Ratio: 0.1333
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 10): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Similarity Ratio: 0.0851
 
-Text A (line 6): 門ベイズ充十
-Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
-Similarity Ratio: 0.0476
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 11): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Similarity Ratio: 0.0755
 
-Text A (line 6): 門ベイズ充十
-Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Similarity Ratio: 0.1333
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 12): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Similarity Ratio: 0.0638
 
-Text A (line 6): 門ベイズ充十
-Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 13): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Similarity Ratio: 0.1026
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 14): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0323
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 15): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.1008
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 16): 理科系の作文技術木下是雄著中公新書624
 Similarity Ratio: 0.0217
 
-Text A (line 6): 門ベイズ充十
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Similarity Ratio: 0.0333
-
-Text A (line 6): 門ベイズ充十
-Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Similarity Ratio: 0.1091
-
-Text A (line 6): 門ベイズ充十
-Text B (line 19): 理科系の作文技術木下是雄著中公新書624
-Similarity Ratio: 0.0714
-
-Text A (line 6): 門ベイズ充十
-Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
-Similarity Ratio: 0.0526
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Similarity Ratio: 0.1481
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Similarity Ratio: 0.0449
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Similarity Ratio: 0.1053
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Similarity Ratio: 0.0606
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0833
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0833
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0833
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Similarity Ratio: 0.1786
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
-Similarity Ratio: 0.0816
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Similarity Ratio: 0.4000
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
-Similarity Ratio: 0.5965
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Similarity Ratio: 0.1081
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Similarity Ratio: 0.1702
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
-Similarity Ratio: 0.0678
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Similarity Ratio: 0.1702
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
-Similarity Ratio: 0.0183
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Similarity Ratio: 0.0519
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Similarity Ratio: 0.1111
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 19): 理科系の作文技術木下是雄著中公新書624
-Similarity Ratio: 0.0444
-
-Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
-Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
-Similarity Ratio: 0.0727
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Similarity Ratio: 0.0769
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Similarity Ratio: 0.0460
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Similarity Ratio: 0.0811
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Similarity Ratio: 0.1250
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0435
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0435
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0435
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Similarity Ratio: 0.0741
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
-Similarity Ratio: 0.1277
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Similarity Ratio: 0.0417
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
-Similarity Ratio: 0.3636
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Similarity Ratio: 0.3333
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Similarity Ratio: 0.1778
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
-Similarity Ratio: 0.1404
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Similarity Ratio: 0.2222
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
-Similarity Ratio: 0.0374
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Similarity Ratio: 0.0533
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Similarity Ratio: 0.0571
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 19): 理科系の作文技術木下是雄著中公新書624
-Similarity Ratio: 0.0930
-
-Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
-Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
-Similarity Ratio: 0.0755
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Similarity Ratio: 0.1778
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Similarity Ratio: 0.0250
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Similarity Ratio: 0.0597
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Similarity Ratio: 0.0351
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.2051
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.2051
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.2051
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Similarity Ratio: 0.0851
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
-Similarity Ratio: 0.0500
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Similarity Ratio: 0.0976
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
-Similarity Ratio: 0.0417
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Similarity Ratio: 0.0615
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Similarity Ratio: 0.4211
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
-Similarity Ratio: 0.0800
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Similarity Ratio: 0.1579
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
-Similarity Ratio: 0.0200
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Similarity Ratio: 0.0294
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Similarity Ratio: 0.0635
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 19): 理科系の作文技術木下是雄著中公新書624
-Similarity Ratio: 0.0556
-
-Text A (line 9): 爆發,線型代数人門齋藤正彦苦
-Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
-Similarity Ratio: 0.0000
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Similarity Ratio: 0.0769
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Similarity Ratio: 0.0230
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Similarity Ratio: 0.0541
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Similarity Ratio: 0.0312
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0435
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0435
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0435
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Similarity Ratio: 0.0370
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
-Similarity Ratio: 0.0851
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Similarity Ratio: 0.0417
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
-Similarity Ratio: 0.0364
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Similarity Ratio: 0.0278
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Similarity Ratio: 0.0444
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
-Similarity Ratio: 0.4561
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Similarity Ratio: 0.2222
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
-Similarity Ratio: 0.0187
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Similarity Ratio: 0.0533
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Similarity Ratio: 0.0571
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 19): 理科系の作文技術木下是雄著中公新書624
-Similarity Ratio: 0.0465
-
-Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
-Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
-Similarity Ratio: 0.0377
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Similarity Ratio: 0.0909
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Similarity Ratio: 0.0506
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Similarity Ratio: 0.0606
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Similarity Ratio: 0.0714
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0526
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0526
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0526
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Similarity Ratio: 0.0870
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
-Similarity Ratio: 0.1026
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Similarity Ratio: 0.2000
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
-Similarity Ratio: 0.0426
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Similarity Ratio: 0.0625
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Similarity Ratio: 0.1622
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
-Similarity Ratio: 0.3265
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Similarity Ratio: 0.5405
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
-Similarity Ratio: 0.0202
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Similarity Ratio: 0.0597
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Similarity Ratio: 0.0645
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 19): 理科系の作文技術木下是雄著中公新書624
-Similarity Ratio: 0.1143
-
-Text A (line 11): 一中,解析入門,杉浦光夫著
-Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
-Similarity Ratio: 0.0000
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Similarity Ratio: 0.0381
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Similarity Ratio: 0.1857
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Similarity Ratio: 0.0472
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Similarity Ratio: 0.0513
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0202
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0202
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0202
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Similarity Ratio: 0.0187
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
-Similarity Ratio: 0.0400
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Similarity Ratio: 0.0198
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
-Similarity Ratio: 0.0185
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Similarity Ratio: 0.0960
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Similarity Ratio: 0.0204
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
-Similarity Ratio: 0.0182
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Similarity Ratio: 0.0204
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
-Similarity Ratio: 0.9375
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Similarity Ratio: 0.0156
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Similarity Ratio: 0.0325
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 19): 理科系の作文技術木下是雄著中公新書624
-Similarity Ratio: 0.0208
-
-Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
-Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
-Similarity Ratio: 0.0189
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Similarity Ratio: 0.1667
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Similarity Ratio: 0.1053
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Similarity Ratio: 0.1220
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Similarity Ratio: 0.1667
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.1111
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.1111
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.1111
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Similarity Ratio: 0.0968
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
-Similarity Ratio: 0.0364
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Similarity Ratio: 0.1071
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
-Similarity Ratio: 0.0952
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Similarity Ratio: 0.0750
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Similarity Ratio: 0.0755
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
-Similarity Ratio: 0.1538
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Similarity Ratio: 0.1132
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
-Similarity Ratio: 0.0174
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Similarity Ratio: 0.6506
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Similarity Ratio: 0.1282
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 19): 理科系の作文技術木下是雄著中公新書624
-Similarity Ratio: 0.1176
-
-Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
-Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
-Similarity Ratio: 0.0656
-
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Similarity Ratio: 0.1000
-
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 17): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Similarity Ratio: 0.0971
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 18): 文科系の応用数学入門増強版小林みどり著岩波書店
 Similarity Ratio: 0.0632
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Similarity Ratio: 0.0976
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 19): 大学編入のための数学問題集
+Similarity Ratio: 0.0471
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Similarity Ratio: 0.1111
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 20): みんなのPythonon柴田淳SoftBankCreative
+Similarity Ratio: 0.0971
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.1111
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 21): PythonユーザのためのJupyter[実践]入門@driller[著]データ分析JupyterN池内孝啓、片柳薫子、岩尾エマはるか、技術評論社
+Similarity Ratio: 0.0966
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.1111
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 22): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0840
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.1111
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 23): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0840
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Similarity Ratio: 0.1613
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 24): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0840
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
-Similarity Ratio: 0.0727
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 25): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0840
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Similarity Ratio: 0.1071
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 26): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0840
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
-Similarity Ratio: 0.0952
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 27): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOESHA
+Similarity Ratio: 0.0847
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Similarity Ratio: 0.1000
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 28): Pythonで実践する強化学習と転移学習河野仁著8585
+Similarity Ratio: 0.1200
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Similarity Ratio: 0.0377
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 29): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.1263
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
-Similarity Ratio: 0.0615
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 30): プログラミング言語C第2版ANSI規格準拠カーニハンリッチー著石田晴久訳SBCrea
+Similarity Ratio: 0.0877
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Similarity Ratio: 0.0377
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 31): 新・明解C言語入門編柴田望洋SBCreative
+Similarity Ratio: 0.1042
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
-Similarity Ratio: 0.0174
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 32): 解きながら学ぶC言語柴田望洋[監修・著]赤尾浩・肘井信一・高木宏典[著]SBCreative
+Similarity Ratio: 0.0678
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Similarity Ratio: 0.1205
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 33): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.1263
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Similarity Ratio: 0.7436
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 34): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Similarity Ratio: 0.0921
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 19): 理科系の作文技術木下是雄著中公新書624
-Similarity Ratio: 0.0784
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 35): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Similarity Ratio: 0.1860
 
-Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
-Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
-Similarity Ratio: 0.0656
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Similarity Ratio: 0.0909
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Similarity Ratio: 0.0506
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Similarity Ratio: 0.0606
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Similarity Ratio: 0.0714
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0526
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0526
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0526
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Similarity Ratio: 0.1304
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
-Similarity Ratio: 0.0513
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Similarity Ratio: 0.1000
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 36): ROSプログラミング初の本格的入門書8534
 Similarity Ratio: 0.0851
 
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Similarity Ratio: 0.0312
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Similarity Ratio: 0.0541
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
-Similarity Ratio: 0.0408
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Similarity Ratio: 0.0541
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
-Similarity Ratio: 0.0202
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Similarity Ratio: 0.0597
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Similarity Ratio: 0.0645
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 19): 理科系の作文技術木下是雄著中公新書624
-Similarity Ratio: 0.5143
-
-Text A (line 15): 理科系の作文技術阅各質之O
-Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
-Similarity Ratio: 0.0444
-
-Text A (line 16): 大学
-Text B (line 1): 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Similarity Ratio: 0.0606
-
-Text A (line 16): 大学
-Text B (line 2): 実践ロボット制御基礎から動力学まで細田耕[著]HosodaKoh株式会社アールティ[協力]RTCorporationOhmsha
-Similarity Ratio: 0.0588
-
-Text A (line 16): 大学
-Text B (line 3): R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Similarity Ratio: 0.0364
-
-Text A (line 16): 大学
-Text B (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Similarity Ratio: 0.0889
-
-Text A (line 16): 大学
-Text B (line 5): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0741
-
-Text A (line 16): 大学
-Text B (line 6): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0741
-
-Text A (line 16): 大学
-Text B (line 7): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Similarity Ratio: 0.0741
-
-Text A (line 16): 大学
-Text B (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Similarity Ratio: 0.1143
-
-Text A (line 16): 大学
-Text B (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
-Similarity Ratio: 0.0714
-
-Text A (line 16): 大学
-Text B (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Similarity Ratio: 0.0690
-
-Text A (line 16): 大学
-Text B (line 11): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 37): C++11対応プログラミング言語++O+[第4版]ビャーネ・ストラウストラップ柴田望洋訳SBCreative
 Similarity Ratio: 0.1111
 
-Text A (line 16): 大学
-Text B (line 12): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Similarity Ratio: 0.0755
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 38): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0917
 
-Text A (line 16): 大学
-Text B (line 13): 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Similarity Ratio: 0.2308
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 39): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Similarity Ratio: 0.0348
 
-Text A (line 16): 大学
-Text B (line 14): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 40): aspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0926
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 41): KINECTforWindowsSDKプログラミングC++編株式会社ゲッシュ中村薰齋藤俊太宮城英人〈著>システム
+Similarity Ratio: 0.0781
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 42): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Similarity Ratio: 0.1071
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 43): シェルスクリストマガジン2019FebruaryVol.58MySQL入門ラズパイBASICkintone
+Similarity Ratio: 0.1760
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 44): シェルスクリストマガジン2023AprilVol.83RubyonRails入門AutoML徹底解説ラズパイ拡張基板
+Similarity Ratio: 0.1231
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 45): シェルスクリプトマガジン2022DecemberVol.81ラズパイサーバーAppSheetさくらのクラウド
+Similarity Ratio: 0.1111
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 46): シェルスクリプトマガジン2022JuneVol.78.NET6統一モデリング言語UMLESP32とラズパイIoT
+Similarity Ratio: 0.1250
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 47): シェルスクリプトマガジン2022OctoberVol.80RHEL9Linux初心者テストチャットサーバー
+Similarity Ratio: 0.0640
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 48): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0645
+
+Text A (line 1): コンボー101TypesNutsVue.js入門基礎から実践アプリケーション開発までB川口和也喜多啓介野田陽平手島拓也片山真也C++ロングE
+Text B (line 49): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0488
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 1): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Similarity Ratio: 0.1290
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 2): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0800
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 3): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0800
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 4): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0800
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 5): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Similarity Ratio: 0.0964
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 6): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Similarity Ratio: 0.0263
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 7): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Similarity Ratio: 0.1039
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 8): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Similarity Ratio: 0.0952
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 9): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Similarity Ratio: 0.0990
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 10): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Similarity Ratio: 0.1081
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 11): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Similarity Ratio: 0.0233
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 12): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Similarity Ratio: 0.0811
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 13): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Similarity Ratio: 0.0735
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 14): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0385
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 15): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0808
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 16): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0556
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 17): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Similarity Ratio: 0.0964
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 18): 文科系の応用数学入門増強版小林みどり著岩波書店
+Similarity Ratio: 0.1067
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 19): 大学編入のための数学問題集
+Similarity Ratio: 0.0923
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 20): みんなのPythonon柴田淳SoftBankCreative
+Similarity Ratio: 0.0723
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 21): PythonユーザのためのJupyter[実践]入門@driller[著]データ分析JupyterN池内孝啓、片柳薫子、岩尾エマはるか、技術評論社
+Similarity Ratio: 0.0960
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 22): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0606
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 23): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0606
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 24): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0606
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 25): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0606
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 26): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0606
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 27): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOESHA
+Similarity Ratio: 0.0816
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 28): Pythonで実践する強化学習と転移学習河野仁著8585
+Similarity Ratio: 0.0500
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 29): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.3733
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 30): プログラミング言語C第2版ANSI規格準拠カーニハンリッチー著石田晴久訳SBCrea
+Similarity Ratio: 0.1277
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 31): 新・明解C言語入門編柴田望洋SBCreative
 Similarity Ratio: 0.1579
 
-Text A (line 16): 大学
-Text B (line 15): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Similarity Ratio: 0.2308
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 32): 解きながら学ぶC言語柴田望洋[監修・著]赤尾浩・肘井信一・高木宏典[著]SBCreative
+Similarity Ratio: 0.1020
 
-Text A (line 16): 大学
-Text B (line 16): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
-Similarity Ratio: 0.0227
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 33): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.3733
 
-Text A (line 16): 大学
-Text B (line 17): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Similarity Ratio: 0.0714
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 34): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Similarity Ratio: 0.0909
 
-Text A (line 16): 大学
-Text B (line 18): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Similarity Ratio: 0.0392
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 35): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Similarity Ratio: 0.0789
 
-Text A (line 16): 大学
-Text B (line 19): 理科系の作文技術木下是雄著中公新書624
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 36): ROSプログラミング初の本格的入門書8534
+Similarity Ratio: 0.1351
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 37): C++11対応プログラミング言語++O+[第4版]ビャーネ・ストラウストラップ柴田望洋訳SBCreative
+Similarity Ratio: 0.2075
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 38): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.1124
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 39): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Similarity Ratio: 0.0842
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 40): aspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.1136
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 41): KINECTforWindowsSDKプログラミングC++編株式会社ゲッシュ中村薰齋藤俊太宮城英人〈著>システム
+Similarity Ratio: 0.1111
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 42): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Similarity Ratio: 0.1087
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 43): シェルスクリストマガジン2019FebruaryVol.58MySQL入門ラズパイBASICkintone
+Similarity Ratio: 0.0762
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 44): シェルスクリストマガジン2023AprilVol.83RubyonRails入門AutoML徹底解説ラズパイ拡張基板
+Similarity Ratio: 0.1273
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 45): シェルスクリプトマガジン2022DecemberVol.81ラズパイサーバーAppSheetさくらのクラウド
+Similarity Ratio: 0.1132
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 46): シェルスクリプトマガジン2022JuneVol.78.NET6統一モデリング言語UMLESP32とラズパイIoT
+Similarity Ratio: 0.1111
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 47): シェルスクリプトマガジン2022OctoberVol.80RHEL9Linux初心者テストチャットサーバー
+Similarity Ratio: 0.0952
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 48): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0962
+
+Text A (line 2): VieコンボーNutsC++1114コア言語10刷突破!IC++入門書のロングセラー!!~.マイナビ
+Text B (line 49): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0777
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 1): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Similarity Ratio: 0.0645
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 2): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0438
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 3): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0438
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 4): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0438
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 5): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Similarity Ratio: 0.0414
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 6): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Similarity Ratio: 0.0290
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 7): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Similarity Ratio: 0.0432
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 8): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Similarity Ratio: 0.0411
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 9): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Similarity Ratio: 0.0982
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 10): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Similarity Ratio: 0.0294
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 11): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Similarity Ratio: 0.0541
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 12): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Similarity Ratio: 0.0441
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 13): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Similarity Ratio: 0.1212
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 14): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0723
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 15): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0994
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 16): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0299
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 17): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Similarity Ratio: 0.0414
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 18): 文科系の応用数学入門増強版小林みどり著岩波書店
+Similarity Ratio: 0.0438
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 19): 大学編入のための数学問題集
+Similarity Ratio: 0.0315
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 20): みんなのPythonon柴田淳SoftBankCreative
+Similarity Ratio: 0.0828
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 21): PythonユーザのためのJupyter[実践]入門@driller[著]データ分析JupyterN池内孝啓、片柳薫子、岩尾エマはるか、技術評論社
+Similarity Ratio: 0.1390
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 22): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0497
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 23): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0497
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 24): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0497
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 25): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0497
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 26): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0497
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 27): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOESHA
+Similarity Ratio: 0.0375
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 28): Pythonで実践する強化学習と転移学習河野仁著8585
+Similarity Ratio: 0.0423
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 29): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.0730
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 30): プログラミング言語C第2版ANSI規格準拠カーニハンリッチー著石田晴久訳SBCrea
+Similarity Ratio: 0.0385
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 31): 新・明解C言語入門編柴田望洋SBCreative
+Similarity Ratio: 0.0725
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 32): 解きながら学ぶC言語柴田望洋[監修・著]赤尾浩・肘井信一・高木宏典[著]SBCreative
+Similarity Ratio: 0.0625
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 33): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.0730
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 34): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Similarity Ratio: 0.0722
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 35): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Similarity Ratio: 0.2710
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 36): ROSプログラミング初の本格的入門書8534
+Similarity Ratio: 0.0441
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 37): C++11対応プログラミング言語++O+[第4版]ビャーネ・ストラウストラップ柴田望洋訳SBCreative
+Similarity Ratio: 0.0595
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 38): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0662
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 39): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Similarity Ratio: 0.1401
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 40): aspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0667
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 41): KINECTforWindowsSDKプログラミングC++編株式会社ゲッシュ中村薰齋藤俊太宮城英人〈著>システム
+Similarity Ratio: 0.0824
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 42): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Similarity Ratio: 0.1169
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 43): シェルスクリストマガジン2019FebruaryVol.58MySQL入門ラズパイBASICkintone
+Similarity Ratio: 0.1078
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 44): シェルスクリストマガジン2023AprilVol.83RubyonRails入門AutoML徹底解説ラズパイ拡張基板
+Similarity Ratio: 0.1163
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 45): シェルスクリプトマガジン2022DecemberVol.81ラズパイサーバーAppSheetさくらのクラウド
 Similarity Ratio: 0.0833
 
-Text A (line 16): 大学
-Text B (line 20): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 46): シェルスクリプトマガジン2022JuneVol.78.NET6統一モデリング言語UMLESP32とラズパイIoT
 Similarity Ratio: 0.0588
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 47): シェルスクリプトマガジン2022OctoberVol.80RHEL9Linux初心者テストチャットサーバー
+Similarity Ratio: 0.1078
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 48): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0964
+
+Text A (line 3): 詳解OpenCV3(株)ネットワークバリューコンポネンツ訳AdrianKaehlerGaryBradski松田晃一、小沼千絵著O'REIL訳コンピュータビジョンライブラリを使った画像処理・認識永田雅人、花形理O'REILLY
+Text B (line 49): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0848
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 1): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Similarity Ratio: 0.1043
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 2): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0619
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 3): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0619
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 4): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0619
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 5): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Similarity Ratio: 0.0571
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 6): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Similarity Ratio: 0.0408
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 7): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Similarity Ratio: 0.0404
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 8): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Similarity Ratio: 0.0377
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 9): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Similarity Ratio: 0.0813
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 10): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Similarity Ratio: 0.0417
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 11): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Similarity Ratio: 0.0185
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 12): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Similarity Ratio: 0.0208
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 13): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Similarity Ratio: 0.0759
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 14): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0952
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 15): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.1157
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 16): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0638
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 17): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Similarity Ratio: 0.0381
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 18): 文科系の応用数学入門増強版小林みどり著岩波書店
+Similarity Ratio: 0.0412
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 19): 大学編入のための数学問題集
+Similarity Ratio: 0.0230
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 20): みんなのPythonon柴田淳SoftBankCreative
+Similarity Ratio: 0.0762
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 21): PythonユーザのためのJupyter[実践]入門@driller[著]データ分析JupyterN池内孝啓、片柳薫子、岩尾エマはるか、技術評論社
+Similarity Ratio: 0.0816
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 22): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0826
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 23): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0826
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 24): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0826
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 25): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0826
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 26): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0826
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 27): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOESHA
+Similarity Ratio: 0.0667
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 28): Pythonで実践する強化学習と転移学習河野仁著8585
+Similarity Ratio: 0.0784
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 29): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.0825
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 30): プログラミング言語C第2版ANSI規格準拠カーニハンリッチー著石田晴久訳SBCrea
+Similarity Ratio: 0.1034
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 31): 新・明解C言語入門編柴田望洋SBCreative
+Similarity Ratio: 0.0816
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 32): 解きながら学ぶC言語柴田望洋[監修・著]赤尾浩・肘井信一・高木宏典[著]SBCreative
+Similarity Ratio: 0.0833
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 33): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.0825
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 34): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Similarity Ratio: 0.0649
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 35): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Similarity Ratio: 0.1839
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 36): ROSプログラミング初の本格的入門書8534
+Similarity Ratio: 0.0417
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 37): C++11対応プログラミング言語++O+[第4版]ビャーネ・ストラウストラップ柴田望洋訳SBCreative
+Similarity Ratio: 0.0938
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 38): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0541
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 39): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Similarity Ratio: 0.0513
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 40): aspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0545
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 41): KINECTforWindowsSDKプログラミングC++編株式会社ゲッシュ中村薰齋藤俊太宮城英人〈著>システム
+Similarity Ratio: 0.0462
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 42): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Similarity Ratio: 0.0702
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 43): シェルスクリストマガジン2019FebruaryVol.58MySQL入門ラズパイBASICkintone
+Similarity Ratio: 0.0945
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 44): シェルスクリストマガジン2023AprilVol.83RubyonRails入門AutoML徹底解説ラズパイ拡張基板
+Similarity Ratio: 0.1364
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 45): シェルスクリプトマガジン2022DecemberVol.81ラズパイサーバーAppSheetさくらのクラウド
+Similarity Ratio: 0.0781
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 46): シェルスクリプトマガジン2022JuneVol.78.NET6統一モデリング言語UMLESP32とラズパイIoT
+Similarity Ratio: 0.0769
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 47): シェルスクリプトマガジン2022OctoberVol.80RHEL9Linux初心者テストチャットサーバー
+Similarity Ratio: 0.0787
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 48): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0952
+
+Text A (line 4): 斉藤博文実践ネットワークセキュリティ監査リスク評価と危機管理ChrisMcNab鍋島公薏(株)ネットワークバリューコンポネンツ訳O'REILLY
+Text B (line 49): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0800
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 1): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Similarity Ratio: 0.0580
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 2): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0784
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 3): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0784
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 4): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0784
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 5): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Similarity Ratio: 0.1017
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 6): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Similarity Ratio: 0.0385
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 7): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Similarity Ratio: 0.0377
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 8): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Similarity Ratio: 0.0667
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 9): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Similarity Ratio: 0.0519
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 10): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Similarity Ratio: 0.0800
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 11): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Similarity Ratio: 0.0323
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 12): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Similarity Ratio: 0.0400
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 13): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Similarity Ratio: 0.0357
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 14): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.1000
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 15): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0800
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 16): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0833
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 17): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Similarity Ratio: 0.1356
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 18): 文科系の応用数学入門増強版小林みどり著岩波書店
+Similarity Ratio: 0.0784
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 19): 大学編入のための数学問題集
+Similarity Ratio: 0.0488
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 20): みんなのPythonon柴田淳SoftBankCreative
+Similarity Ratio: 0.0339
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 21): PythonユーザのためのJupyter[実践]入門@driller[著]データ分析JupyterN池内孝啓、片柳薫子、岩尾エマはるか、技術評論社
+Similarity Ratio: 0.0594
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 22): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0533
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 23): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0533
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 24): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0533
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 25): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0533
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 26): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0533
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 27): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOESHA
+Similarity Ratio: 0.0541
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 28): Pythonで実践する強化学習と転移学習河野仁著8585
+Similarity Ratio: 0.1071
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 29): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.0784
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 30): プログラミング言語C第2版ANSI規格準拠カーニハンリッチー著石田晴久訳SBCrea
+Similarity Ratio: 0.0857
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 31): 新・明解C言語入門編柴田望洋SBCreative
+Similarity Ratio: 0.0385
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 32): 解きながら学ぶC言語柴田望洋[監修・著]赤尾浩・肘井信一・高木宏典[著]SBCreative
+Similarity Ratio: 0.0270
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 33): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.0784
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 34): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Similarity Ratio: 0.0926
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 35): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Similarity Ratio: 0.0625
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 36): ROSプログラミング初の本格的入門書8534
+Similarity Ratio: 0.0400
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 37): C++11対応プログラミング言語++O+[第4版]ビャーネ・ストラウストラップ柴田望洋訳SBCreative
+Similarity Ratio: 0.0732
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 38): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0923
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 39): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Similarity Ratio: 0.0563
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 40): aspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0938
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 41): KINECTforWindowsSDKプログラミングC++編株式会社ゲッシュ中村薰齋藤俊太宮城英人〈著>システム
+Similarity Ratio: 0.0714
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 42): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Similarity Ratio: 0.1176
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 43): シェルスクリストマガジン2019FebruaryVol.58MySQL入門ラズパイBASICkintone
+Similarity Ratio: 0.1235
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 44): シェルスクリストマガジン2023AprilVol.83RubyonRails入門AutoML徹底解説ラズパイ拡張基板
+Similarity Ratio: 0.1163
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 45): シェルスクリプトマガジン2022DecemberVol.81ラズパイサーバーAppSheetさくらのクラウド
+Similarity Ratio: 0.1220
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 46): シェルスクリプトマガジン2022JuneVol.78.NET6統一モデリング言語UMLESP32とラズパイIoT
+Similarity Ratio: 0.1190
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 47): シェルスクリプトマガジン2022OctoberVol.80RHEL9Linux初心者テストチャットサーバー
+Similarity Ratio: 0.1481
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 48): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.1250
+
+Text A (line 5): 「シェル芸」に効く!AWK処方箋実践ネットワ斉藤博文
+Text B (line 49): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.1013
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 1): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Similarity Ratio: 0.0833
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 2): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0588
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 3): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0588
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 4): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0588
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 5): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Similarity Ratio: 0.0727
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 6): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Similarity Ratio: 0.0388
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 7): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Similarity Ratio: 0.0769
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 8): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Similarity Ratio: 0.1081
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 9): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Similarity Ratio: 0.0312
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 10): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Similarity Ratio: 0.0990
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 11): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Similarity Ratio: 0.0531
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 12): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Similarity Ratio: 0.0990
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 13): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Similarity Ratio: 0.0245
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 14): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0916
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 15): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0794
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 16): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0606
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 17): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Similarity Ratio: 0.0545
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 18): 文科系の応用数学入門増強版小林みどり著岩波書店
+Similarity Ratio: 0.1176
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 19): 大学編入のための数学問題集
+Similarity Ratio: 0.1304
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 20): みんなのPythonon柴田淳SoftBankCreative
+Similarity Ratio: 0.0364
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 21): PythonユーザのためのJupyter[実践]入門@driller[著]データ分析JupyterN池内孝啓、片柳薫子、岩尾エマはるか、技術評論社
+Similarity Ratio: 0.1184
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 22): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0794
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 23): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0794
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 24): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0794
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 25): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0794
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 26): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0794
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 27): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOESHA
+Similarity Ratio: 0.0800
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 28): Pythonで実践する強化学習と転移学習河野仁著8585
+Similarity Ratio: 0.0748
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 29): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.1176
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 30): プログラミング言語C第2版ANSI規格準拠カーニハンリッチー著石田晴久訳SBCrea
+Similarity Ratio: 0.0992
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 31): 新・明解C言語入門編柴田望洋SBCreative
+Similarity Ratio: 0.0583
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 32): 解きながら学ぶC言語柴田望洋[監修・著]赤尾浩・肘井信一・高木宏典[著]SBCreative
+Similarity Ratio: 0.0800
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 33): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.1176
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 34): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Similarity Ratio: 0.1132
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 35): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Similarity Ratio: 0.0782
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 36): ROSプログラミング初の本格的入門書8534
+Similarity Ratio: 0.0990
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 37): C++11対応プログラミング言語++O+[第4版]ビャーネ・ストラウストラップ柴田望洋訳SBCreative
+Similarity Ratio: 0.0752
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 38): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0862
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 39): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Similarity Ratio: 0.0492
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 40): aspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0870
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 41): KINECTforWindowsSDKプログラミングC++編株式会社ゲッシュ中村薰齋藤俊太宮城英人〈著>システム
+Similarity Ratio: 0.0593
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 42): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Similarity Ratio: 0.0840
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 43): シェルスクリストマガジン2019FebruaryVol.58MySQL入門ラズパイBASICkintone
+Similarity Ratio: 0.0758
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 44): シェルスクリストマガジン2023AprilVol.83RubyonRails入門AutoML徹底解説ラズパイ拡張基板
+Similarity Ratio: 0.0730
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 45): シェルスクリプトマガジン2022DecemberVol.81ラズパイサーバーAppSheetさくらのクラウド
+Similarity Ratio: 0.0752
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 46): シェルスクリプトマガジン2022JuneVol.78.NET6統一モデリング言語UMLESP32とラズパイIoT
+Similarity Ratio: 0.1037
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 47): シェルスクリプトマガジン2022OctoberVol.80RHEL9Linux初心者テストチャットサーバー
+Similarity Ratio: 0.0606
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 48): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0611
+
+Text A (line 6): メナ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知【】LATEX2E美文書作成入門奥村晴彦黒木裕介著「シェル芸」に効く!AWK処方箋斉藤博文
+Text B (line 49): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0462
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 1): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Similarity Ratio: 0.1235
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 2): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0952
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 3): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0952
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 4): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0952
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 5): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Similarity Ratio: 0.0563
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 6): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Similarity Ratio: 0.0938
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 7): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Similarity Ratio: 0.0923
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 8): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Similarity Ratio: 0.1667
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 9): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Similarity Ratio: 0.0449
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 10): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Similarity Ratio: 0.1290
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 11): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Similarity Ratio: 0.0541
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 12): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Similarity Ratio: 0.1290
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 13): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Similarity Ratio: 0.0484
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 14): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.1304
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 15): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.1149
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 16): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0667
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 17): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Similarity Ratio: 0.1127
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 18): 文科系の応用数学入門増強版小林みどり著岩波書店
+Similarity Ratio: 0.1587
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 19): 大学編入のための数学問題集
+Similarity Ratio: 0.2264
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 20): みんなのPythonon柴田淳SoftBankCreative
+Similarity Ratio: 0.0845
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 21): PythonユーザのためのJupyter[実践]入門@driller[著]データ分析JupyterN池内孝啓、片柳薫子、岩尾エマはるか、技術評論社
+Similarity Ratio: 0.1770
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 22): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.1149
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 23): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.1149
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 24): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.1149
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 25): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.1149
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 26): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.1149
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 27): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOESHA
+Similarity Ratio: 0.1163
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 28): Pythonで実践する強化学習と転移学習河野仁著8585
+Similarity Ratio: 0.1176
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 29): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.1587
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 30): プログラミング言語C第2版ANSI規格準拠カーニハンリッチー著石田晴久訳SBCrea
+Similarity Ratio: 0.0732
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 31): 新・明解C言語入門編柴田望洋SBCreative
+Similarity Ratio: 0.0938
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 32): 解きながら学ぶC言語柴田望洋[監修・著]赤尾浩・肘井信一・高木宏典[著]SBCreative
+Similarity Ratio: 0.0930
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 33): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.1587
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 34): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Similarity Ratio: 0.1167
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 35): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Similarity Ratio: 0.0571
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 36): ROSプログラミング初の本格的入門書8534
+Similarity Ratio: 0.1290
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 37): C++11対応プログラミング言語++O+[第4版]ビャーネ・ストラウストラップ柴田望洋訳SBCreative
+Similarity Ratio: 0.0638
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 38): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.1299
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 39): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Similarity Ratio: 0.0482
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 40): aspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.1316
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 41): KINECTforWindowsSDKプログラミングC++編株式会社ゲッシュ中村薰齋藤俊太宮城英人〈著>システム
+Similarity Ratio: 0.0833
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 42): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Similarity Ratio: 0.1000
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 43): シェルスクリストマガジン2019FebruaryVol.58MySQL入門ラズパイBASICkintone
+Similarity Ratio: 0.0860
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 44): シェルスクリストマガジン2023AprilVol.83RubyonRails入門AutoML徹底解説ラズパイ拡張基板
+Similarity Ratio: 0.0816
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 45): シェルスクリプトマガジン2022DecemberVol.81ラズパイサーバーAppSheetさくらのクラウド
+Similarity Ratio: 0.0851
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 46): シェルスクリプトマガジン2022JuneVol.78.NET6統一モデリング言語UMLESP32とラズパイIoT
+Similarity Ratio: 0.1042
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 47): シェルスクリプトマガジン2022OctoberVol.80RHEL9Linux初心者テストチャットサーバー
+Similarity Ratio: 0.0860
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 48): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0652
+
+Text A (line 7): メカ屋のための脳科学入門PLAT脳をリバースエンジニアリングする高橋宏知【】
+Text B (line 49): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0440
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 1): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Similarity Ratio: 0.0853
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 2): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0725
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 3): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0725
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 4): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0725
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 5): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Similarity Ratio: 0.0498
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 6): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Similarity Ratio: 0.0412
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 7): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Similarity Ratio: 0.0410
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 8): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Similarity Ratio: 0.0495
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 9): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Similarity Ratio: 0.0548
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 10): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Similarity Ratio: 0.0938
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 11): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Similarity Ratio: 0.0294
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 12): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Similarity Ratio: 0.0521
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 13): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Similarity Ratio: 0.0709
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 14): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0270
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 15): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0461
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 16): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0211
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 17): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Similarity Ratio: 0.0498
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 18): 文科系の応用数学入門増強版小林みどり著岩波書店
+Similarity Ratio: 0.0622
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 19): 大学編入のための数学問題集
+Similarity Ratio: 0.0874
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 20): みんなのPythonon柴田淳SoftBankCreative
+Similarity Ratio: 0.0896
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 21): PythonユーザのためのJupyter[実践]入門@driller[著]データ分析JupyterN池内孝啓、片柳薫子、岩尾エマはるか、技術評論社
+Similarity Ratio: 0.1317
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 22): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.1106
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 23): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.1106
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 24): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.1106
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 25): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.1106
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 26): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.1106
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 27): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOESHA
+Similarity Ratio: 0.1111
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 28): Pythonで実践する強化学習と転移学習河野仁著8585
+Similarity Ratio: 0.1111
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 29): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.0725
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 30): プログラミング言語C第2版ANSI規格準拠カーニハンリッチー著石田晴久訳SBCrea
+Similarity Ratio: 0.0755
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 31): 新・明解C言語入門編柴田望洋SBCreative
+Similarity Ratio: 0.0412
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 32): 解きながら学ぶC言語柴田望洋[監修・著]赤尾浩・肘井信一・高木宏典[著]SBCreative
+Similarity Ratio: 0.0463
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 33): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.0725
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 34): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Similarity Ratio: 0.1040
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 35): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Similarity Ratio: 0.2074
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 36): ROSプログラミング初の本格的入門書8534
+Similarity Ratio: 0.1146
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 37): C++11対応プログラミング言語++O+[第4版]ビャーネ・ストラウストラップ柴田望洋訳SBCreative
+Similarity Ratio: 0.1339
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 38): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0773
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 39): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Similarity Ratio: 0.0469
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 40): aspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0777
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 41): KINECTforWindowsSDKプログラミングC++編株式会社ゲッシュ中村薰齋藤俊太宮城英人〈著>システム
+Similarity Ratio: 0.1239
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 42): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Similarity Ratio: 0.0857
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 43): シェルスクリストマガジン2019FebruaryVol.58MySQL入門ラズパイBASICkintone
+Similarity Ratio: 0.0717
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 44): シェルスクリストマガジン2023AprilVol.83RubyonRails入門AutoML徹底解説ラズパイ拡張基板
+Similarity Ratio: 0.0965
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 45): シェルスクリプトマガジン2022DecemberVol.81ラズパイサーバーAppSheetさくらのクラウド
+Similarity Ratio: 0.0982
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 46): シェルスクリプトマガジン2022JuneVol.78.NET6統一モデリング言語UMLESP32とラズパイIoT
+Similarity Ratio: 0.0796
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 47): シェルスクリプトマガジン2022OctoberVol.80RHEL9Linux初心者テストチャットサーバー
+Similarity Ratio: 0.0807
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 48): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0541
+
+Text A (line 8): 077-4-473-377-5CHESS6400E978487311775LATEX2E3片行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.KleinN松田晃一十弓林司+脇本佑紀+ORELLY中田洋+齋藤大吾訳入力屋のための脳科学入門エンジニアリングする高橋宏知【】美文書作成入門奥村晴彦黒木裕介著佐藤寿
+Text B (line 49): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0452
+
+Text A (line 9): 
+Text B (line 1): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Similarity Ratio: 0.0465
+
+Text A (line 9): 
+Text B (line 2): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0800
+
+Text A (line 9): 
+Text B (line 3): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0800
+
+Text A (line 9): 
+Text B (line 4): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0800
+
+Text A (line 9): 
+Text B (line 5): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Similarity Ratio: 0.0606
+
+Text A (line 9): 
+Text B (line 6): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Similarity Ratio: 0.0769
+
+Text A (line 9): 
+Text B (line 7): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Similarity Ratio: 0.0741
+
+Text A (line 9): 
+Text B (line 8): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Similarity Ratio: 0.0588
+
+Text A (line 9): 
+Text B (line 9): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Similarity Ratio: 0.0392
+
+Text A (line 9): 
+Text B (line 10): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Similarity Ratio: 0.0833
+
+Text A (line 9): 
+Text B (line 11): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Similarity Ratio: 0.0556
+
+Text A (line 9): 
+Text B (line 12): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Similarity Ratio: 0.0833
+
+Text A (line 9): 
+Text B (line 13): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Similarity Ratio: 0.0233
+
+Text A (line 9): 
+Text B (line 14): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0370
+
+Text A (line 9): 
+Text B (line 15): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0408
+
+Text A (line 9): 
+Text B (line 16): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0909
+
+Text A (line 9): 
+Text B (line 17): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Similarity Ratio: 0.0606
+
+Text A (line 9): 
+Text B (line 18): 文科系の応用数学入門増強版小林みどり著岩波書店
+Similarity Ratio: 0.0800
+
+Text A (line 9): 
+Text B (line 19): 大学編入のための数学問題集
+Similarity Ratio: 0.1333
+
+Text A (line 9): 
+Text B (line 20): みんなのPythonon柴田淳SoftBankCreative
+Similarity Ratio: 0.0606
+
+Text A (line 9): 
+Text B (line 21): PythonユーザのためのJupyter[実践]入門@driller[著]データ分析JupyterN池内孝啓、片柳薫子、岩尾エマはるか、技術評論社
+Similarity Ratio: 0.0267
+
+Text A (line 9): 
+Text B (line 22): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0408
+
+Text A (line 9): 
+Text B (line 23): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0408
+
+Text A (line 9): 
+Text B (line 24): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0408
+
+Text A (line 9): 
+Text B (line 25): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0408
+
+Text A (line 9): 
+Text B (line 26): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0408
+
+Text A (line 9): 
+Text B (line 27): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOESHA
+Similarity Ratio: 0.0417
+
+Text A (line 9): 
+Text B (line 28): Pythonで実践する強化学習と転移学習河野仁著8585
+Similarity Ratio: 0.0667
+
+Text A (line 9): 
+Text B (line 29): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.0800
+
+Text A (line 9): 
+Text B (line 30): プログラミング言語C第2版ANSI規格準拠カーニハンリッチー著石田晴久訳SBCrea
+Similarity Ratio: 0.0455
+
+Text A (line 9): 
+Text B (line 31): 新・明解C言語入門編柴田望洋SBCreative
+Similarity Ratio: 0.0769
+
+Text A (line 9): 
+Text B (line 32): 解きながら学ぶC言語柴田望洋[監修・著]赤尾浩・肘井信一・高木宏典[著]SBCreative
+Similarity Ratio: 0.0417
+
+Text A (line 9): 
+Text B (line 33): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.0800
+
+Text A (line 9): 
+Text B (line 34): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Similarity Ratio: 0.0244
+
+Text A (line 9): 
+Text B (line 35): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Similarity Ratio: 0.0196
+
+Text A (line 9): 
+Text B (line 36): ROSプログラミング初の本格的入門書8534
+Similarity Ratio: 0.0833
+
+Text A (line 9): 
+Text B (line 37): C++11対応プログラミング言語++O+[第4版]ビャーネ・ストラウストラップ柴田望洋訳SBCreative
+Similarity Ratio: 0.0357
+
+Text A (line 9): 
+Text B (line 38): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0513
+
+Text A (line 9): 
+Text B (line 39): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Similarity Ratio: 0.0444
+
+Text A (line 9): 
+Text B (line 40): aspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0526
+
+Text A (line 9): 
+Text B (line 41): KINECTforWindowsSDKプログラミングC++編株式会社ゲッシュ中村薰齋藤俊太宮城英人〈著>システム
+Similarity Ratio: 0.0345
+
+Text A (line 9): 
+Text B (line 42): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Similarity Ratio: 0.0476
+
+Text A (line 9): 
+Text B (line 43): シェルスクリストマガジン2019FebruaryVol.58MySQL入門ラズパイBASICkintone
+Similarity Ratio: 0.0364
+
+Text A (line 9): 
+Text B (line 44): シェルスクリストマガジン2023AprilVol.83RubyonRails入門AutoML徹底解説ラズパイ拡張基板
+Similarity Ratio: 0.0333
+
+Text A (line 9): 
+Text B (line 45): シェルスクリプトマガジン2022DecemberVol.81ラズパイサーバーAppSheetさくらのクラウド
+Similarity Ratio: 0.0357
+
+Text A (line 9): 
+Text B (line 46): シェルスクリプトマガジン2022JuneVol.78.NET6統一モデリング言語UMLESP32とラズパイIoT
+Similarity Ratio: 0.0345
+
+Text A (line 9): 
+Text B (line 47): シェルスクリプトマガジン2022OctoberVol.80RHEL9Linux初心者テストチャットサーバー
+Similarity Ratio: 0.0364
+
+Text A (line 9): 
+Text B (line 48): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0370
+
+Text A (line 9): 
+Text B (line 49): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0000
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 1): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Similarity Ratio: 0.0814
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 2): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0649
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 3): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0649
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 4): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0649
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 5): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Similarity Ratio: 0.0370
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 6): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Similarity Ratio: 0.0258
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 7): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Similarity Ratio: 0.0256
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 8): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Similarity Ratio: 0.0491
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 9): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Similarity Ratio: 0.1333
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 10): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Similarity Ratio: 0.0261
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 11): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Similarity Ratio: 0.0242
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 12): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Similarity Ratio: 0.0261
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 13): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Similarity Ratio: 0.1581
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 14): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0328
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 15): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.1124
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 16): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0265
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 17): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Similarity Ratio: 0.0741
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 18): 文科系の応用数学入門増強版小林みどり著岩波書店
+Similarity Ratio: 0.0260
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 19): 大学編入のための数学問題集
+Similarity Ratio: 0.0139
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 20): みんなのPythonon柴田淳SoftBankCreative
+Similarity Ratio: 0.1111
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 21): PythonユーザのためのJupyter[実践]入門@driller[著]データ分析JupyterN池内孝啓、片柳薫子、岩尾エマはるか、技術評論社
+Similarity Ratio: 0.1078
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 22): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0562
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 23): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0562
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 24): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0562
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 25): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0562
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 26): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0562
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 27): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOESHA
+Similarity Ratio: 0.0565
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 28): Pythonで実践する強化学習と転移学習河野仁著8585
+Similarity Ratio: 0.0629
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 29): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.0649
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 30): プログラミング言語C第2版ANSI規格準拠カーニハンリッチー著石田晴久訳SBCrea
+Similarity Ratio: 0.0694
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 31): 新・明解C言語入門編柴田望洋SBCreative
+Similarity Ratio: 0.1161
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 32): 解きながら学ぶC言語柴田望洋[監修・著]赤尾浩・肘井信一・高木宏典[著]SBCreative
+Similarity Ratio: 0.1017
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 33): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.0649
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 34): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Similarity Ratio: 0.0379
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 35): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Similarity Ratio: 0.0779
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 36): ROSプログラミング初の本格的入門書8534
+Similarity Ratio: 0.0523
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 37): C++11対応プログラミング言語++O+[第4版]ビャーネ・ストラウストラップ柴田望洋訳SBCreative
+Similarity Ratio: 0.0973
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 38): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0952
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 39): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Similarity Ratio: 0.0805
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 40): aspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0958
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 41): KINECTforWindowsSDKプログラミングC++編株式会社ゲッシュ中村薰齋藤俊太宮城英人〈著>システム
+Similarity Ratio: 0.1070
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 42): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Similarity Ratio: 0.0585
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 43): シェルスクリストマガジン2019FebruaryVol.58MySQL入門ラズパイBASICkintone
+Similarity Ratio: 0.0870
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 44): シェルスクリストマガジン2023AprilVol.83RubyonRails入門AutoML徹底解説ラズパイ拡張基板
+Similarity Ratio: 0.0741
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 45): シェルスクリプトマガジン2022DecemberVol.81ラズパイサーバーAppSheetさくらのクラウド
+Similarity Ratio: 0.1081
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 46): シェルスクリプトマガジン2022JuneVol.78.NET6統一モデリング言語UMLESP32とラズパイIoT
+Similarity Ratio: 0.0321
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 47): シェルスクリプトマガジン2022OctoberVol.80RHEL9Linux初心者テストチャットサーバー
+Similarity Ratio: 0.1196
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 48): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0656
+
+Text A (line 10): ComputerArchitecture:AQuantitativeApproach5Eテ初ヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版テンプロ&中修拓伯ジョン・L・ヘネシーデイビッド・A・パターソン天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Text B (line 49): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0549
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 1): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Similarity Ratio: 0.0669
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 2): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0271
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 3): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0271
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 4): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0271
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 5): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Similarity Ratio: 0.0349
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 6): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Similarity Ratio: 0.0270
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 7): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Similarity Ratio: 0.0359
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 8): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Similarity Ratio: 0.0609
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 9): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Similarity Ratio: 0.0810
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 10): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Similarity Ratio: 0.0273
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 11): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Similarity Ratio: 0.0345
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 12): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Similarity Ratio: 0.0364
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 13): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Similarity Ratio: 0.1206
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 14): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0640
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 15): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0735
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 16): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0183
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 17): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Similarity Ratio: 0.0524
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 18): 文科系の応用数学入門増強版小林みどり著岩波書店
+Similarity Ratio: 0.0452
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 19): 大学編入のための数学問題集
+Similarity Ratio: 0.0284
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 20): みんなのPythonon柴田淳SoftBankCreative
+Similarity Ratio: 0.0873
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 21): PythonユーザのためのJupyter[実践]入門@driller[著]データ分析JupyterN池内孝啓、片柳薫子、岩尾エマはるか、技術評論社
+Similarity Ratio: 0.0959
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 22): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0490
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 23): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0490
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 24): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0490
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 25): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0490
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 26): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0490
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 27): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOESHA
+Similarity Ratio: 0.0492
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 28): Pythonで実践する強化学習と転移学習河野仁著8585
+Similarity Ratio: 0.0354
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 29): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.0633
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 30): プログラミング言語C第2版ANSI規格準拠カーニハンリッチー著石田晴久訳SBCrea
+Similarity Ratio: 0.0500
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 31): 新・明解C言語入門編柴田望洋SBCreative
+Similarity Ratio: 0.0811
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 32): 解きながら学ぶC言語柴田望洋[監修・著]赤尾浩・肘井信一・高木宏典[著]SBCreative
+Similarity Ratio: 0.0820
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 33): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.0633
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 34): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Similarity Ratio: 0.0576
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 35): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Similarity Ratio: 0.0872
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 36): ROSプログラミング初の本格的入門書8534
+Similarity Ratio: 0.0455
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 37): C++11対応プログラミング言語++O+[第4版]ビャーネ・ストラウストラップ柴田望洋訳SBCreative
+Similarity Ratio: 0.0952
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 38): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0766
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 39): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Similarity Ratio: 0.0664
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 40): aspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0769
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 41): KINECTforWindowsSDKプログラミングC++編株式会社ゲッシュ中村薰齋藤俊太宮城英人〈著>システム
+Similarity Ratio: 0.0945
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 42): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Similarity Ratio: 0.0504
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 43): シェルスクリストマガジン2019FebruaryVol.58MySQL入門ラズパイBASICkintone
+Similarity Ratio: 0.0876
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 44): シェルスクリストマガジン2023AprilVol.83RubyonRails入門AutoML徹底解説ラズパイ拡張基板
+Similarity Ratio: 0.0938
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 45): シェルスクリプトマガジン2022DecemberVol.81ラズパイサーバーAppSheetさくらのクラウド
+Similarity Ratio: 0.1270
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 46): シェルスクリプトマガジン2022JuneVol.78.NET6統一モデリング言語UMLESP32とラズパイIoT
+Similarity Ratio: 0.0472
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 47): シェルスクリプトマガジン2022OctoberVol.80RHEL9Linux初心者テストチャットサーバー
+Similarity Ratio: 0.1195
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 48): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0800
+
+Text A (line 11): 78-4-120-11031-1知の創成9784320120327身体性認知科学への招待ComputerArchitecture:AQuantitativeApproach5E伝えることがでウェア記述意ヘネシー&パターソンR.PfeiferC.Scheier石黒章夫著小林宏監訳細田デイビッド・A・パターソンコンピュータアーキテクチャジョン・ル・ベネシー定量的アプローチ中條拓伯天野英晴鈴木貢
+Text B (line 49): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0723
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 1): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Similarity Ratio: 0.0312
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 2): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0435
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 3): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0435
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 4): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Similarity Ratio: 0.0435
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 5): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Similarity Ratio: 0.0741
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 6): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Similarity Ratio: 0.0851
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 7): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Similarity Ratio: 0.0833
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 8): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Similarity Ratio: 0.0727
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 9): ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Similarity Ratio: 0.0556
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 10): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Similarity Ratio: 0.0889
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 11): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Similarity Ratio: 0.0351
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 12): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Similarity Ratio: 0.0889
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 13): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Similarity Ratio: 0.0187
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 14): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Similarity Ratio: 0.0533
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 15): デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Similarity Ratio: 0.0571
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 16): 理科系の作文技術木下是雄著中公新書624
+Similarity Ratio: 0.0930
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 17): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Similarity Ratio: 0.0741
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 18): 文科系の応用数学入門増強版小林みどり著岩波書店
+Similarity Ratio: 0.0435
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 19): 大学編入のための数学問題集
+Similarity Ratio: 0.1111
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 20): みんなのPythonon柴田淳SoftBankCreative
+Similarity Ratio: 0.0370
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 21): PythonユーザのためのJupyter[実践]入門@driller[著]データ分析JupyterN池内孝啓、片柳薫子、岩尾エマはるか、技術評論社
+Similarity Ratio: 0.0417
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 22): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0857
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 23): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0857
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 24): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0857
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 25): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0857
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 26): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
+Similarity Ratio: 0.0857
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 27): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOESHA
+Similarity Ratio: 0.0870
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 28): Pythonで実践する強化学習と転移学習河野仁著8585
+Similarity Ratio: 0.1176
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 29): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.0435
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 30): プログラミング言語C第2版ANSI規格準拠カーニハンリッチー著石田晴久訳SBCrea
+Similarity Ratio: 0.0615
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 31): 新・明解C言語入門編柴田望洋SBCreative
+Similarity Ratio: 0.0426
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 32): 解きながら学ぶC言語柴田望洋[監修・著]赤尾浩・肘井信一・高木宏典[著]SBCreative
+Similarity Ratio: 0.0580
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 33): ロベールのC++入門講座ロベール著M.マイナビ
+Similarity Ratio: 0.0435
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 34): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Similarity Ratio: 0.0388
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 35): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Similarity Ratio: 0.0488
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 36): ROSプログラミング初の本格的入門書8534
+Similarity Ratio: 0.0889
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 37): C++11対応プログラミング言語++O+[第4版]ビャーネ・ストラウストラップ柴田望洋訳SBCreative
+Similarity Ratio: 0.0779
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 38): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0667
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 39): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Similarity Ratio: 0.0909
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 40): aspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Similarity Ratio: 0.0678
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 41): KINECTforWindowsSDKプログラミングC++編株式会社ゲッシュ中村薰齋藤俊太宮城英人〈著>システム
+Similarity Ratio: 0.0253
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 42): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Similarity Ratio: 0.0635
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 43): シェルスクリストマガジン2019FebruaryVol.58MySQL入門ラズパイBASICkintone
+Similarity Ratio: 0.1053
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 44): シェルスクリストマガジン2023AprilVol.83RubyonRails入門AutoML徹底解説ラズパイ拡張基板
+Similarity Ratio: 0.0741
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 45): シェルスクリプトマガジン2022DecemberVol.81ラズパイサーバーAppSheetさくらのクラウド
+Similarity Ratio: 0.1039
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 46): シェルスクリプトマガジン2022JuneVol.78.NET6統一モデリング言語UMLESP32とラズパイIoT
+Similarity Ratio: 0.1013
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 47): シェルスクリプトマガジン2022OctoberVol.80RHEL9Linux初心者テストチャットサーバー
+Similarity Ratio: 0.1053
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 48): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.1067
+
+Text A (line 12): 210550えることができたウェア総意を使
+Text B (line 49): シェルスクリプトマガジン2018FebruaryVol.52仮想化技術Docker特製ラズパイ拡張ボード
+Similarity Ratio: 0.0811
 
