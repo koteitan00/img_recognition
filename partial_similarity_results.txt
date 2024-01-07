@@ -1,72 +1,64 @@
-Text A (line 1): 統計のための行列代数DAハーヴィル:8
-Best Match for Text A: 統計のための行列代数上D・A・ハーヴィル著伊里正夫監訳丸善
-Highest Partial Similarity: 0.4900
-
-Text A (line 2): フィッシャー研究者のための統計的方法RAF・
-Best Match for Text A: R・A・フィッシャー研究者のための統計的方法R・A・Fisher[著]遠藤健児・鍋谷清治[訳]D908
-Highest Partial Similarity: 0.5048
-
-Text A (line 3): 力学系
+Text A (line 1): 力学系E四ツ谷二C・ロビンソン常讀書店
 Best Match for Text A: DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
-Highest Partial Similarity: 0.1118
+Highest Partial Similarity: 0.2236
 
-Text A (line 4): ポイント線形代数四ツ
+Text A (line 2): キーポイント線形代数四ツ谷吉四ツ谷二
 Best Match for Text A: キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Highest Partial Similarity: 0.5380
+
+Text A (line 3): キーポイント線形代数キーポイントで攻四ツ谷昌二
+Best Match for Text A: キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Highest Partial Similarity: 0.5839
+
+Text A (line 4): と化SEGAITAINEキーポイント線形代数
+Best Match for Text A: キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Highest Partial Similarity: 0.3722
+
+Text A (line 5): シリーズ数理統計学の基礎尾畑伸明
+Best Match for Text A: クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Highest Partial Similarity: 0.5657
+
+Text A (line 6): 門ベイズ充十
+Best Match for Text A: 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Highest Partial Similarity: 0.1826
+
+Text A (line 7): さしく知りたい入門ベイズ充十ベイズ統計学松原里
+Best Match for Text A: やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
 Highest Partial Similarity: 0.4264
 
-Text A (line 5): a
-Best Match for Text A: None
-Highest Partial Similarity: 0.0000
-
-Text A (line 6): キーポイント線形代数四ツ谷
-Best Match for Text A: キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
-Highest Partial Similarity: 0.5539
-
-Text A (line 7): シリーズ数理統計学の基礎尾畑伸明(
-Best Match for Text A: クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Highest Partial Similarity: 0.5477
-
-Text A (line 8): a
-Best Match for Text A: None
-Highest Partial Similarity: 0.0000
-
-Text A (line 9): 入門ベイズ統計松原望
-Best Match for Text A: 入門ベイズ統計意思決定の理論と発展松原望著東京図書
-Highest Partial Similarity: 0.4082
-
-Text A (line 10): ベイズ統計学
+Text A (line 8): ALやさしく知りたい全生命改訂2版医学出版
 Best Match for Text A: やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
-Highest Partial Similarity: 0.3114
+Highest Partial Similarity: 0.2335
 
-Text A (line 11): 人工生命ENER
-Best Match for Text A: ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Highest Partial Similarity: 0.1091
-
-Text A (line 12): 一一'線型代数入門市藤正接著
+Text A (line 9): 爆發,線型代数人門齋藤正彦苦
 Best Match for Text A: 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Highest Partial Similarity: 0.1210
+Highest Partial Similarity: 0.0605
 
-Text A (line 13): 解析演習打由无无+青水英里全子兒。因本相大
+Text A (line 10): 解析演習杉源无夫·清水芙男全予芜·国本和夫
 Best Match for Text A: 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
-Highest Partial Similarity: 0.0778
+Highest Partial Similarity: 0.1557
 
-Text A (line 14): *嗎?解析入門I
+Text A (line 11): 一中,解析入門,杉浦光夫著
 Best Match for Text A: 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
-Highest Partial Similarity: 0.1650
+Highest Partial Similarity: 0.3150
 
-Text A (line 15): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussmanW
+Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
 Best Match for Text A: Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
-Highest Partial Similarity: 0.6389
+Highest Partial Similarity: 0.6530
 
-Text A (line 16): 微生物の力学系ルスミス竹内ポール・ウォルトマン(著)(日本
+Text A (line 13): 微生物の力学系竹内ハル・スミスポール・ウォルトマン(著日本
 Best Match for Text A: 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Highest Partial Similarity: 0.3705
+Highest Partial Similarity: 0.4499
 
-Text A (line 17): デクステリティ巧みさとそのニコライ・ベルシュタインK
+Text A (line 14): デクステリティ巧みさとその発達ニコライ・ベルンシュタインK
 Best Match for Text A: デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
-Highest Partial Similarity: 0.5308
+Highest Partial Similarity: 0.6966
 
-Text A (line 18): 理科系の作文技術
+Text A (line 15): 理科系の作文技術阅各質之O
 Best Match for Text A: 理科系の作文技術木下是雄著中公新書624
-Highest Partial Similarity: 0.5620
+Highest Partial Similarity: 0.3974
+
+Text A (line 16): 大学
+Best Match for Text A: None
+Highest Partial Similarity: 0.0000
 
