@@ -1,84 +1,56 @@
-Text A (line 1): Linux610Linuxグッズラズパイ3検証トラブル脱出回DVD日経BP社
-Best Match for Text A: 日経LinuxLinux82016WindowsLinux乗換ラズパイサーバー格安SIM日経BP社日経BP
-Highest Levenshtein Similarity: 0.3333
+Text A (line 1): キーベリント線形代数2薩摩四ツ谷二
+Best Match for Text A: キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Highest Levenshtein Similarity: 0.5833
 
-Text A (line 2): UbuntullNIKKLinuシェルスクリプトマガジン2023AugustVol.85ゆっくり実況ZappiXUNTAWSonetonNIKKELinux7USB&SD活用ラズパイ落とし穴極厚100付録&96日経BP社知らずに大阪す科Ubu
-Best Match for Text A: シェルスクリストマガジン2023AprilVol.83RubyonRails入門AutoML徹底解説ラズパイ拡張基板
-Highest Levenshtein Similarity: 0.2623
+Text A (line 2): キーボキーポイント線形代数四ツ谷二四ツ谷晶二
+Best Match for Text A: キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Highest Levenshtein Similarity: 0.5000
 
-Text A (line 3): 図解大学4年間の統計学が1時間でざっと学べる東京大学教養学部教授倉田博史月が寺でうと学べる東京大学教養学部教授倉田博史KADOKAWAKADOKAWA
-Best Match for Text A: Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
-Highest Levenshtein Similarity: 0.1184
+Text A (line 3): キーポイント線形代数吉四ツ谷吉四ツ谷二版
+Best Match for Text A: キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Highest Levenshtein Similarity: 0.6250
 
-Text A (line 4): 解大学4年間の総計学カー前処理大全データ分析のためのSQLRPython実践テクニック本橋智光[著]技術評論社株式会社ホクソエム[監修]女受田博史SKADOKAWA
-Best Match for Text A: 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
-Highest Levenshtein Similarity: 0.1205
+Text A (line 4): MLPシリーズ異常知と変化機吉四ツ谷二
+Best Match for Text A: MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Highest Levenshtein Similarity: 0.2812
 
-Text A (line 5): 201教養としての記矢和学図解大学4年間の統計学が1時間でざっと学べる東京大学教養学部教授倉田博史KADOKAWA
-Best Match for Text A: Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOESHA
-Highest Levenshtein Similarity: 0.1552
-
-Text A (line 6): 経営科学のための確率統計入門確率・統計から始めるエンジニアのための信頼性工学かN日本身近な故障から山本久志【編著】鈴木宏昭京大学出版会コロナ社
-Best Match for Text A: メカ屋のための脳科学入門脳をリバースエンジニアリングする高橋宏知【著】
-Highest Levenshtein Similarity: 0.2083
-
-Text A (line 7): 統計シリーズ米言経営科学のための確率統計入門田村信幸著身近な故障から山本久志【編著】コロナ社コロナ社
-Best Match for Text A: ロベールのC++入門講座ロベール著M.マイナビ
-Highest Levenshtein Similarity: 0.1373
-
-Text A (line 8): 挫折しない統計学クロスセクショナル統計シリーズ=数理統計学の基礎ENT尾畑伸明[著]大社WORITSU
-Best Match for Text A: クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Highest Levenshtein Similarity: 0.5962
-
-Text A (line 9): はじめての作挫折しない統計学入門数学苦手意識を克服する浅野晃著尾畑伸明[著]ONYOhmsha
-Best Match for Text A: クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
-Highest Levenshtein Similarity: 0.2083
-
-Text A (line 10): はじめての現代開後はじめての制御工学حش数学苦手意識を克服する佐藤和也平元和彦著平田研二浅野晃著Ohmsha講談社
-Best Match for Text A: メカ屋のための脳科学入門脳をリバースエンジニアリングする高橋宏知【著】
-Highest Levenshtein Similarity: 0.1207
-
-Text A (line 11): 最適制御入門レギュレータとカはじめての現代制御理論佐藤和也下本陽一著熊澤典良佐藤和也平元和彦著講談社講談社
-Best Match for Text A: MLP異常検知と変化検知井手剛杉山将講談社講談社
-Highest Levenshtein Similarity: 0.1481
-
-Text A (line 12): ライトノベルでわかる確率最適制御入門レギュレータとカルマン・フィルタ加藤寛一郎著佐藤和也下本陽一著1.6O講談社LS-77d【東大工精密学科東京大学出版会
-Best Match for Text A: 数学基礎1線形代数入門斎藤正彦東京大学出版会
-Highest Levenshtein Similarity: 0.1410
-
-Text A (line 13): 進化計算と深層学習《創発する知能》anuDeepLearningライトノベルでわかる確率3時間でだいたいマスター著・ストーリー原案:野口哲典レベル:たまごまご1.6-77d工精密学科東京大学出版会
-Best Match for Text A: ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
-Highest Levenshtein Similarity: 0.1111
-
-Text A (line 14): ◎ベアリングのびみ進化計算と深層学習(創発する知能〉DNeuro-EvolutionandDeepLearningだいたいマスター伊庭斉志[著]IbaHitoshi著・ストーリー原案:野口哲典レベル:たまごまごOhmshaOHN
-Best Match for Text A: SimultaneousLocalizationandtaneousMappingSLAM入門ロボットの自己位置推定と地図構築の技術友納正裕MasahiroTomonoOMIOhms[著]
-Highest Levenshtein Similarity: 0.1391
-
-Text A (line 15): 21ベアリングのひみつヒヒNeuro-Evolutionand研まんがで学よくわかるシリーズ伊庭斉志[著]IbaHitoshiOHM118Ohmsha【学研
-Best Match for Text A: FPGAプログラミング大全小林優FieldProgrammableXilinx編GateArrayKobayashiMasaru[著]
-Highest Levenshtein Similarity: 0.1266
-
-Text A (line 16): 23127日でできる!SPI【頻出】問題集研まんがでシリーズよくわかる118【学研高橋書店
-Best Match for Text A: 2019入学試験問題集千葉工業大学
-Highest Levenshtein Similarity: 0.1522
-
-Text A (line 17): ぜったい成功する!はじめての学会発表7日でできる!TSUTAYASPI必勝トレー観察」ジャンル第1位【真呂】問題集i橋書店
+Text A (line 5): 入日期十学の基礎
 Best Match for Text A: 大学編入のための数学問題集
-Highest Levenshtein Similarity: 0.0968
+Highest Levenshtein Similarity: 0.2143
 
-Text A (line 18): 計算機が神になる100年人類なら知っておきたい人工知能の今と未来の話ThePresentandFutureofArtificialIntelligence西澤幹雄著大阪工業大学教授開発社人PHP
-Best Match for Text A: みんなのPythonon柴田淳SoftBankCreative
-Highest Levenshtein Similarity: 0.1327
-
-Text A (line 19): 0人工知能は私たちを滅ぼすのか計算機が神になる100年の物語児玉哲彦大阪工業大学教授今と未来の話本田幸夫開発社PHPダイヤモンド社068090
+Text A (line 6): 先端科学シリーズ入門ベイズ統計公望INPE
 Best Match for Text A: やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
-Highest Levenshtein Similarity: 0.0833
+Highest Levenshtein Similarity: 0.4242
 
-Text A (line 20): 詳解確率ロボティクスPythonによる基礎アルゴリズムの実装就職活動の手引き000成ぜぜったい成功する!2025CHIBAINSTITUTEOFTECHNOLOGY何の人工知能は私たちを滅ぼすのか計算機が神になる100年の物語知っておきたい「人工知能」の今と未来の話はじめての学会発表ThePresentandFutureofArtificialIntelligence西澤幹雄著児玉哲彦大阪工業大学教授本田幸夫開発社TSUTAYA「抗戦式演」ジャンル第1位PHP高橋書店|大学国人ダイヤモンド社068090
-Best Match for Text A: プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
-Highest Levenshtein Similarity: 0.0902
+Text A (line 7): やさしく知りたい先端科学シリーズイズ統計学松原里
+Best Match for Text A: やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Highest Levenshtein Similarity: 0.7273
 
-Text A (line 21): 詳解確率ロボティクスPythonによる基礎アルゴリズムの実装の手引き2005T吉田隆一署]講談社CHIBAINSTITUTEOFTECHNOLOGY抹ぼすのか児玉哲彦ヤモンド社068090
-Best Match for Text A: Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOEISHA
-Highest Levenshtein Similarity: 0.1263
+Text A (line 8): 一,人工生命有田游也區
+Best Match for Text A: ArtificialLife人工生命改定2版バイオインフォマティクスシリーズ有田隆也[著]医学出版
+Highest Levenshtein Similarity: 0.1600
+
+Text A (line 9): 一鑼線型代数入門齋藤正彦著
+Best Match for Text A: 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Highest Levenshtein Similarity: 0.3913
+
+Text A (line 10): 基礎-解析演習杉浦光夫,清水英男金子晃·岡本和大著
+Best Match for Text A: 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Highest Levenshtein Similarity: 0.6286
+
+Text A (line 11): 数基学礎解析入門I杉浦光夫著
+Best Match for Text A: 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Highest Levenshtein Similarity: 0.5217
+
+Text A (line 12): StructureandInterpretationofComputerProgramsSecondEditionAbelsonandSussman
+Best Match for Text A: Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Highest Levenshtein Similarity: 0.8824
+
+Text A (line 13): 微生物の力学系ケモスタットしてハル・スミザポール・ウ竹内康博
+Best Match for Text A: 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Highest Levenshtein Similarity: 0.5660
+
+Text A (line 14): デクステリティ巧みさとその発達ニコライ・A・ベルンシュ工藤和俊
+Best Match for Text A: デクステリティ巧みさとその発達ニコライ・A・ベルンシュタイン著工藤和俊訳佐々木正人監訳金子書房
+Highest Levenshtein Similarity: 0.6667
 
