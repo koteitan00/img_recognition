@@ -1,0 +1,16 @@
+names:
+- Book Spine
+- Books
+- book
+- book-spines
+- book_spine
+nc: 5
+roboflow:
+  license: MIT
+  project: oriented-books
+  url: https://universe.roboflow.com/koteitan/oriented-books/dataset/1
+  version: 1
+  workspace: koteitan
+test: ../test/images
+train: oriented-books-1/train/images
+val: oriented-books-1/valid/images
