@@ -1,5 +1,8 @@
 ﻿________________
 
-Dec 2023
-17 むかしばなし
-ソフトウェア
+プログラミングROS
+Pythonによるロボットアプリケーション開発
+Morgan Quigley
+Brian Gerkey
+William D. Smart
+O'REILLY
