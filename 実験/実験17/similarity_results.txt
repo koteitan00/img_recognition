@@ -1,0 +1,68 @@
+Original Text A (line 1): 詳解LINUXカーネル由美子正明MARCOCESATEDANIELP.BOVETNO'REILLYO'REILLY
+Best Match for Text A (line 1): 第3版詳解LINUXカーネルDANIELP.BOVETMARCOCESATI高橋浩和監訳杉田由美子、清水正明高杉昌督、平松雅已安井隆宏訳O'REILLY
+Highest Similarity Ratio: 0.5263
+
+Original Text A (line 2): Pythonで学ぶあたらしい統計学の教科書どのようななのだろうSE
+Best Match for Text A (line 2): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOESHA
+Highest Similarity Ratio: 0.8354
+
+Original Text A (line 3): Pythonで学ぶあたらしい統計学の教科書学はどのような学なのだろう
+Best Match for Text A (line 3): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOESHA
+Highest Similarity Ratio: 0.8500
+
+Original Text A (line 4): 挫折しない統計学入門ONN
+Best Match for Text A (line 4): 挫折しない統計学入門数学苦手意識を克服する浅野晃著Ohmsha
+Highest Similarity Ratio: 0.5000
+
+Original Text A (line 5): マルコフ連鎖から格子確率モデルへRBシナジ今野紀林2
+Best Match for Text A (line 5): マルコフ連鎖から格子確率モデルへ現代確率論の基礎と応用RBシナジ著今野紀雄/林俊一訳
+Highest Similarity Ratio: 0.7353
+
+Original Text A (line 6): クラショナルシリーズ数理統計学の基礎
+Best Match for Text A (line 6): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Highest Similarity Ratio: 0.6939
+
+Original Text A (line 7): 統計のための行列代数伊DAハーヴィル著€
+Best Match for Text A (line 7): 統計のための行列代数下DAハーヴィル著伊藤正夫監訳丸善
+Highest Similarity Ratio: 0.7660
+
+Original Text A (line 8): 2XUNANシリーズ数理統計学の基礎尾畑伸明
+Best Match for Text A (line 8): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Highest Similarity Ratio: 0.6038
+
+Original Text A (line 9): 異常と変化横杉
+Best Match for Text A (line 9): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Highest Similarity Ratio: 0.3871
+
+Original Text A (line 10): 入門ベイズ統計意思決定の理論とT
+Best Match for Text A (line 10): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Highest Similarity Ratio: 0.7317
+
+Original Text A (line 11): フィッシャー研究者のための統計的方法RAFisherNe
+Best Match for Text A (line 11): RAフィッシャー研究者のための統計的方法R.A.Fisher[著]遠藤健児鍋谷清治[訳]0908
+Highest Similarity Ratio: 0.6842
+
+Original Text A (line 12): ベイズ推定入門モデルからベイズ大ARO
+Best Match for Text A (line 12): ベイズ推定入門モデル選択からベイズ的最適化まで大関真之著
+Highest Similarity Ratio: 0.6809
+
+Original Text A (line 13): トピックモデル岩田真治O
+Best Match for Text A (line 13): MLP機械学習プロフェッショナルシリーズトピックモデル岩田真治
+Highest Similarity Ratio: 0.5116
+
+Original Text A (line 14): やさしく知りたい端科学シリーズベイズ統計学松原望元付
+Best Match for Text A (line 14): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Highest Similarity Ratio: 0.8621
+
+Original Text A (line 15): 自分ペイズ学中島伸一
+Best Match for Text A (line 15): MLP機械学習プロフェッショナルシリーズ変分ベイズ学習中島真一
+Highest Similarity Ratio: 0.3415
+
+Original Text A (line 16): 経営科学のための確率統計入門村
+Best Match for Text A (line 16): 経営科学のための確率統計入門田村信幸著コロナ社
+Highest Similarity Ratio: 0.7895
+
+Original Text A (line 17): ライトノベルでわかる確率3時間でだいたいマスター
+Best Match for Text A (line 17): ライトノベルでわかる3時間でだいたいマスター著・ストーリー原案:野口哲典レベル:たまごまご
+Highest Similarity Ratio: 0.6377
+

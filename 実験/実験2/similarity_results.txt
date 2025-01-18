@@ -1,0 +1,89 @@
+Original Text A (line 1): O詳解OpenCV3コンピュータブラリを使った画像処理・認識AdrianKaehlerGaryBradski小永田雅人、花形O'REILLY
+Best Match for Text A (line 1): 詳解OpenCV3AdrianKaehlerGaryBradski松田晃一、小沼千絵著永田雅人、花形理訳O'REILLY
+Highest Similarity Ratio: 0.7538
+
+Original Text A (line 2): MasteringROSforRoboticsProgrammingLentinJosephPACKT
+Best Match for Text A (line 2): MasteringROSforRoboticsProgrammingLentinJosephPACKT*
+Highest Similarity Ratio: 0.9903
+
+Original Text A (line 3): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.SmartO'REILLY谷夫
+Best Match for Text A (line 3): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Highest Similarity Ratio: 0.8729
+
+Original Text A (line 4): ・PB・GLACE'S[確率ロボティクス]SebastianThruWolframBurgard,andDieterFox・パーカード、ディーター・フォックス著上田隆一w.マイナビ
+Best Match for Text A (line 4): [確率ロボティクス]SebastianThrun,WolframBurgard,andDieterFoxマイナビセバスチャン・スラン、ウルフラム・バーガード、ディーター・フォックス著上田隆一訳
+Highest Similarity Ratio: 0.7634
+
+Original Text A (line 5): 行列プログラマーPythonプログラムで学ぶ線形代数PhilipN.Klein松田++日本佑紀+ORERLY中田洋+藤大
+Best Match for Text A (line 5): 行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.Klein著松田晃一十弓林司+脇本佑紀+O.REILLY中田洋+齋藤大吾訳
+Highest Similarity Ratio: 0.8321
+
+Original Text A (line 6): GOTOP使用RaspberryPi6實戰ROS機器人自作上田隆一著許郁文請CHO219
+Best Match for Text A (line 6): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Highest Similarity Ratio: 0.9425
+
+Original Text A (line 7): ラズパイ自由自在電子工作パーツ制御完全攻略17101
+Best Match for Text A (line 7): ラズパイ自由自在電子工作パーツ制御完全攻略松岡貴志著ラズパイマガジン編日経BP11191
+Highest Similarity Ratio: 0.6857
+
+Original Text A (line 8): 実用ロボット開発のためのROSプログラミング関公俊内洋平大川1号限中石田裕太郎裕太KRO
+Best Match for Text A (line 8): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Highest Similarity Ratio: 0.5645
+
+Original Text A (line 9): berryPiで学ぶROSロボット入門上田隆一回
+Best Match for Text A (line 9): berryPiROSロボット入門上田隆一日経3929-9
+Highest Similarity Ratio: 0.7692
+
+Original Text A (line 10): RaspberryPiROSロボット入門・学ぶ上田隆一
+Best Match for Text A (line 10): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Highest Similarity Ratio: 0.7500
+
+Original Text A (line 11): laspberryPiROSロボット入門上田で学ぶ上田隆一目
+Best Match for Text A (line 11): aspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Highest Similarity Ratio: 0.6970
+
+Original Text A (line 12): RaspberryPiROSロボット入門上田隆一で学ぶ39249
+Best Match for Text A (line 12): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Highest Similarity Ratio: 0.8116
+
+Original Text A (line 13): ROSロボットブバイブル
+Best Match for Text A (line 13): ROSロボットプログラミングバイブル表允晳・倉爪 亮・鄭黎蝹共著
+Highest Similarity Ratio: 0.5000
+
+Original Text A (line 14): ROS2ではじめよう次世代ロボットプログラミング近藤
+Best Match for Text A (line 14): ROS2ではじめよう次世代ロボットプログラミング近藤豊[著]
+Highest Similarity Ratio: 0.9286
+
+Original Text A (line 15): 最新PicoW対応יラズパイPic完全ガイド|福田和宏マガジンラズパイ20177BP20177
+Best Match for Text A (line 15): 最新PicoW対応!ラズパイPico完全ガイド福田和宏マガジンラズパイ日経BP20177
+Highest Similarity Ratio: 0.8791
+
+Original Text A (line 16): PROSロボットプログラミングではじめる小倉工学社
+Best Match for Text A (line 16): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Highest Similarity Ratio: 0.5846
+
+Original Text A (line 17): ROSプログラミング初の本格的入門書
+Best Match for Text A (line 17): ROSプログラミング初の本格的入門書8534
+Highest Similarity Ratio: 0.9000
+
+Original Text A (line 18): LAM入門ロボットの自己位置推定と地図の技術友缺正品ONY
+Best Match for Text A (line 18): SimultaneousLocalizationandtaneousMappingSLAM入門ロボットの自己位置推定と地図構築の技術友納正裕MasahiroTomonoOMIOhms[著]
+Highest Similarity Ratio: 0.4065
+
+Original Text A (line 19): ではじめるR003ロボットプログラミング小倉
+Best Match for Text A (line 19): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Highest Similarity Ratio: 0.5806
+
+Original Text A (line 20): ROSプログラミング初の本格的入門書
+Best Match for Text A (line 20): ROSプログラミング初の本格的入門書8534
+Highest Similarity Ratio: 0.9000
+
+Original Text A (line 21): これ1冊でできラズベパイREKEWで話しダウンロード手のひらサLinux完全ガイド·福田和宏「マガジンラズパイENBP20171BP26177
+Best Match for Text A (line 21): 最新PicoW対応!ラズパイPico完全ガイド福田和宏マガジンラズパイ日経BP20177
+Highest Similarity Ratio: 0.5043
+
+Original Text A (line 22): これ1冊で手
+Best Match for Text A (line 22): これ1冊でできるラズベリー・パイ超入門ラズパイを使い倒そう!「改訂第3版」ソーテック社
+Highest Similarity Ratio: 0.2041
+
+Original Text A (line 23): 

@@ -1,0 +1,96 @@
+Original Text A (line 1): パターン認識と機械学習下ベイズによる予測CM・ビショップ
+Best Match for Text A (line 1): パターン認識と機械学習下ベイズによる統計的予測C・M・ビショップ著元田浩/栗田多喜夫/樋口知之/松本裕治/村田昇監訳丸善
+Highest Jaccard Coefficient: 0.5185
+
+Original Text A (line 2): DENISONHOLMESMALLICKSMITHBayesianMethodsforNonlinearClassificationandRegressionWILEY
+Best Match for Text A (line 2): DENISONHOLMESMALLICKSMITHBayesianMethodsforNonlinearClassificationandRegressionWILEY
+Highest Jaccard Coefficient: 1.0000
+
+Original Text A (line 3): パターン認識と機械学習ベイズ理論によるCM・ビショップHERK本
+Best Match for Text A (line 3): パターン認識と機械学習上ベイズによる統計的予測C・M・ビショップ著元田浩/栗田多喜夫/樋口知之/松本裕治/村田昇監訳丸善
+Highest Jaccard Coefficient: 0.4333
+
+Original Text A (line 4): これからの強化学習「白漁牧谷長一史欄e8800
+Best Match for Text A (line 4): これからの強化学習編著牧野貴樹渋谷長史白川真一
+Highest Jaccard Coefficient: 0.5172
+
+Original Text A (line 5): EssenceofMachineLearning1stEdition機械学習のエッセンス加藤公一実装しながら学ぶPPythonKアルゴリズムSBCreative
+Best Match for Text A (line 5): EssenceofMachineLearning1stEdition機械学習のエッセンス実装しながら学ぶPython数学アルゴリズム加藤公一[著]SBCreative
+Highest Jaccard Coefficient: 0.9091
+
+Original Text A (line 6): MLSスタートアップシリーズベイズ推論による機械学習入門須山政志杉山将
+Best Match for Text A (line 6): MLS機械学習スタートアップシリーズベイズ推論による機械学習入門須山敦志著杉山将監修
+Highest Jaccard Coefficient: 0.8611
+
+Original Text A (line 7): Tエンジニアのための●機械学習理論入門中井悦司+
+Best Match for Text A (line 7): ITエンジニアのための機械学習理論入門中井悦司著
+Highest Jaccard Coefficient: 0.8400
+
+Original Text A (line 8): 人工知能は私たちを滅ぼすのか計算機が神になる100年の物語児玉哲彦ダイヤモンド
+Best Match for Text A (line 8): 人工知能は私たちを滅ぼすのか計算機が神になる100年の物語児玉哲彦ダイヤモンド社068090
+Highest Jaccard Coefficient: 0.9024
+
+Original Text A (line 9): LocalizationandSimultanesUMapping「SLAM入門ロボットの自己位置推定と友納正裕)地図の技術ONN
+Best Match for Text A (line 9): SimultaneousLocalizationandtaneousMappingSLAM入門ロボットの自己位置推定と地図構築の技術友納正裕MasahiroTomonoOMIOhms[著]
+Highest Jaccard Coefficient: 0.7636
+
+Original Text A (line 10): MLPnorwnante劣モジュラ最適化と機械学習河原吉伸永野清仁
+Best Match for Text A (line 10): MLP機械学習プロフェッショナルシリーズ劣モジュラ最適化と機械学習川原吉伸永野清仁
+Highest Jaccard Coefficient: 0.5227
+
+Original Text A (line 11): はじめてのアプリケーションC言語で作るネットワー小高知宏クトとOMN
+Best Match for Text A (line 11): はじめてのAIアプリケーションC言語で作るネットワークエージェントと機械学習小高知宏[著]Omsha
+Highest Jaccard Coefficient: 0.6250
+
+Original Text A (line 12): KINECTHACKER'SMANUALキネクトハッカーズマニュアル西林孝+小野恵史RutiesL
+Best Match for Text A (line 12): KINECTHACKER'SMANUALキネクトハッカーズマニュアル西林孝+小野憲史著Ruteles
+Highest Jaccard Coefficient: 0.8864
+
+Original Text A (line 13): ゼロから作るDeepLearningPythonで学ぶディープラーニングの理論と実践O'REILLY
+Best Match for Text A (line 13): ゼロから作るDeepLearningPythonで学ぶディープラーニングの理論と実装O'REILLY
+Highest Jaccard Coefficient: 0.9545
+
+Original Text A (line 14): パターン認識と機械学習上ベイズによる予測C・M・ビショップHEREN夫丸善
+Best Match for Text A (line 14): パターン認識と機械学習上ベイズによる統計的予測C・M・ビショップ著元田浩/栗田多喜夫/樋口知之/松本裕治/村田昇監訳丸善
+Highest Jaccard Coefficient: 0.5345
+
+Original Text A (line 15): MLP岡谷貴之
+Best Match for Text A (line 15): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Highest Jaccard Coefficient: 0.2500
+
+Original Text A (line 16): ●自由エネルギー原理入門・コミュニケーションの阪乾口敏豊郎www.
+Best Match for Text A (line 16): 自由エネルギー原理入門知覚・行動・コミュニケーションの計算理論乾敏郎阪口豊岩波書店
+Highest Jaccard Coefficient: 0.6585
+
+Original Text A (line 17): 人類なら知っておきたい、「人工知能」の今と未来の話KYO本田中央PHP
+Best Match for Text A (line 17): 人類なら知っておきたい「人工知能」の今と未来の話ThePresentandFutureofArtificialIntelligence大阪工業大学教授本田幸夫開発社PHP
+Highest Jaccard Coefficient: 0.4098
+
+Original Text A (line 18): はじめてのパターン認識平井有三著e
+Best Match for Text A (line 18): はじめてのパターン認識平井有三著8497
+Highest Jaccard Coefficient: 0.7619
+
+Original Text A (line 19): 情報科学におけるモデル一確率システムにおける制御理論谷
+Best Match for Text A (line 19): シリーズ情報科学における確率モデル6確率システムにおける制御理論向谷博明【著】コロナ社
+Highest Jaccard Coefficient: 0.5946
+
+Original Text A (line 20): スパース性に基づく機械学習富岡亮太
+Best Match for Text A (line 20): MLP機械学習シリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Highest Jaccard Coefficient: 0.4412
+
+Original Text A (line 21): Pythonで実践する強化学習と転移学習河野仁
+Best Match for Text A (line 21): Pythonで実践する強化学習と転移学習河野仁著8585
+Highest Jaccard Coefficient: 0.8750
+
+Original Text A (line 22): AIプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHome2ポンダッドW.マイナビ
+Best Match for Text A (line 22): AIプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho.GoogleHome2ポンダッドW.マイナビ
+Highest Jaccard Coefficient: 1.0000
+
+Original Text A (line 23): 進化計算と深層学習(前発する知能)伊庭齐志TheHilskiOWN
+Best Match for Text A (line 23): 進化計算と深層学習(創発する知能〉Neuro-EvolutionandDeepLearning伊庭斉志[著]IbaHitoshiOhmsha
+Highest Jaccard Coefficient: 0.4727
+
+Original Text A (line 24): メカ屋のための脳科学入門エンジニアリングする脳をリバース高橋宏知:
+Best Match for Text A (line 24): メカ屋のための脳科学入門脳をリバースエンジニアリングする高橋宏知【著】
+Highest Jaccard Coefficient: 0.8750
+

@@ -1,0 +1,76 @@
+Text A (line 1): 第3版詳解LINUXカーネルMARCOCENATYDANEELP.BOVETGORG由美子、日本正明O'REILLYO'REILLY
+Best Match in Text B (line 150): 第3版詳解LINUXカーネルDANIELP.BOVETMARCOCESATI高橋浩和監訳杉田由美子、清水正明高杉昌督、平松雅已安井隆宏訳O'REILLY
+Highest Similarity Ratio: 0.5833
+
+Text A (line 2): 実装しながら学ぶPythonCDデッ学習のエッセンス加藤公一.58Creative
+Best Match in Text B (line 171): EssenceofMachineLearning1stEdition機械学習のエッセンス実装しながら学ぶPython数学アルゴリズム加藤公一[著]SBCreative
+Highest Similarity Ratio: 0.4444
+
+Text A (line 3): ベイズ推論による学入門須山恵杉山
+Best Match in Text B (line 172): MLS機械学習スタートアップシリーズベイズ推論による機械学習入門須山敦志著杉山将監修
+Highest Similarity Ratio: 0.5333
+
+Text A (line 4): パターン認識と機械学習ベイズによるCM・ビショップAB
+Best Match in Text B (line 167): パターン認識と機械学習上ベイズによる統計的予測C・M・ビショップ著元田浩/栗田多喜夫/樋口知之/松本裕治/村田昇監訳丸善
+Highest Similarity Ratio: 0.5843
+
+Text A (line 5): パターン認識と機械学習ベイズによCM・ビショップAB
+Best Match in Text B (line 167): パターン認識と機械学習上ベイズによる統計的予測C・M・ビショップ著元田浩/栗田多喜夫/樋口知之/松本裕治/村田昇監訳丸善
+Highest Similarity Ratio: 0.5682
+
+Text A (line 6): モジュラ化学
+Best Match in Text B (line 174): MLP機械学習プロフェッショナルシリーズ劣モジュラ最適化と機械学習川原吉伸永野清仁
+Highest Similarity Ratio: 0.2857
+
+Text A (line 7): 知っておきたい「人工知能」の今と未来の話PHP
+Best Match in Text B (line 113): 人類なら知っておきたい「人工知能」の今と未来の話ThePresentandFutureofArtificialIntelligence大阪工業大学教授本田幸夫開発社PHP
+Highest Similarity Ratio: 0.4364
+
+Text A (line 8): ITエンジニアのための機械学習理論入門中井町・
+Best Match in Text B (line 173): ITエンジニアのための機械学習理論入門中井悦司著
+Highest Similarity Ratio: 0.8980
+
+Text A (line 9): PORNDeepLearningythonで学ぶディープラーニングの実O'REILLY
+Best Match in Text B (line 175): ゼロから作るDeepLearningPythonで学ぶディープラーニングの理論と実装O'REILLY
+Highest Similarity Ratio: 0.8421
+
+Text A (line 10): Aプログラミングスマートスピーカー×自分でつくる人工知能AmazonEcho,GoogleHome12ポンダッドWマイナビ
+Best Match in Text B (line 178): スマートスピーカー×AIプログラミング自分でつくる人工知能AmazonEcho.GoogleHome対応ポンダッド[著]マイナビ
+Highest Similarity Ratio: 0.7874
+
+Text A (line 11): スパース性に基づく相学園富凤亮大
+Best Match in Text B (line 177): MLP機械学習シリーズプロフェッショナルスパース性に基づく機械学習冨岡亮太講談社
+Highest Similarity Ratio: 0.4138
+
+Text A (line 12): UNSTCOはじめてのアプリケーションネットワークサイト小高知ONY
+Best Match in Text B (line 140): はじめてのAIアプリケーションC言語で作るネットワークエージェントと機械学習小高知宏[著]Omsha
+Highest Similarity Ratio: 0.5814
+
+Text A (line 13): ◆自由エネルギー原理入門・コミュニケーションの阪口
+Best Match in Text B (line 176): 自由エネルギー原理入門知覚・行動・コミュニケーションの計算理論乾敏郎阪口豊岩波書店
+Highest Similarity Ratio: 0.7353
+
+Text A (line 14): 人工知能は私たちを滅ぼすのか計算が神になる100年の物語
+Best Match in Text B (line 114): 人工知能は私たちを滅ぼすのか計算機が神になる100年の物語児玉哲彦ダイヤモンド社068090
+Highest Similarity Ratio: 0.7632
+
+Text A (line 15): メカ屋のための脳科学入門のニアリングする高橋宏知】スマートスピーカー
+Best Match in Text B (line 56): メカ屋のための脳科学入門脳をリバースエンジニアリングする高橋宏知【著】
+Highest Similarity Ratio: 0.7042
+
+Text A (line 16): パターン認識と機械学習下ベイズによるCM・ビショップZERUN
+Best Match in Text B (line 168): パターン認識と機械学習下ベイズによる統計的予測C・M・ビショップ著元田浩/栗田多喜夫/樋口知之/松本裕治/村田昇監訳丸善
+Highest Similarity Ratio: 0.5806
+
+Text A (line 17): 岡谷貴之O
+Best Match in Text B (line 17): MLP機械学習シリーズプロフェッショナル深層学習岡谷貴之講談社
+Highest Similarity Ratio: 0.2632
+
+Text A (line 18): 進化計算と深層学習(観発する知能)伊志TheRitualLONY
+Best Match in Text B (line 108): 進化計算と深層学習(創発する知能〉Neuro-EvolutionandDeepLearning伊庭斉志[著]IbaHitoshiOhmsha
+Highest Similarity Ratio: 0.4038
+
+Text A (line 19): Pythonで実践する強化学習と転移学習河野仁en
+Best Match in Text B (line 28): Pythonで実践する強化学習と転移学習河野仁著8585
+Highest Similarity Ratio: 0.8727
+

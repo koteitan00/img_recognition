@@ -1,0 +1,85 @@
+Original Text A (line 1): CPB[確率ロボティクス]SebastianThrun,WolframBurgard,andDieterRセバスチャン・スンウルフラム・バーガード、ディーター・フォックスw.マイナビ
+Best Match for Text A (line 1): [確率ロボティクス]SebastianThrun,WolframBurgard,andDieterFoxマイナビセバスチャン・スラン、ウルフラム・バーガード、ディーター・フォックス著上田隆一訳
+Highest Jaccard Coefficient: 0.8088
+
+Original Text A (line 2): 最新PicoW対応!ラズパイPic完全ガイドガジンラズパイ20171
+Best Match for Text A (line 2): 最新PicoW対応!ラズパイPico完全ガイド福田和宏マガジンラズパイ日経BP20177
+Highest Jaccard Coefficient: 0.7500
+
+Original Text A (line 3): 襞,解析演習杉浦光夫。清水英男子晃。因本和夫
+Best Match for Text A (line 3): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Highest Jaccard Coefficient: 0.4571
+
+Original Text A (line 4): これできる!で5ラズベリー・パイ超入門(泡)(改訂第3版)
+Best Match for Text A (line 4): これ1冊でできるラズベリー・パイ超入門ラズパイを使い倒そう!「改訂第3版」ソーテック社
+Highest Jaccard Coefficient: 0.5366
+
+Original Text A (line 5): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkayWilliamD.SmartO'REILLY
+Best Match for Text A (line 5): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Highest Jaccard Coefficient: 0.7353
+
+Original Text A (line 6): ラズパイ自由自在電子工作パーツ制御完全攻略ラズパイマガジン
+Best Match for Text A (line 6): ラズパイ自由自在電子工作パーツ制御完全攻略松岡貴志著ラズパイマガジン編日経BP11191
+Highest Jaccard Coefficient: 0.6571
+
+Original Text A (line 7): MasteringROSforRoboticsProgramming.LentinJosephPACKT
+Best Match for Text A (line 7): MasteringROSforRoboticsProgrammingLentinJosephPACKT*
+Highest Jaccard Coefficient: 0.9286
+
+Original Text A (line 8): RaspberryPiROSロボット入門・で学ぶ上田隆一
+Best Match for Text A (line 8): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Highest Jaccard Coefficient: 0.7576
+
+Original Text A (line 9): 電子工作&サーバーラズパイ5完全ガイドラズパイジン
+Best Match for Text A (line 9): 電子工作＆サーバー構築徹底解説!ラズパイ5完全完全ガイド編ラズパイマガジン著日経BP20505
+Highest Jaccard Coefficient: 0.5000
+
+Original Text A (line 10): 2解析入門I杉浦光夫著
+Best Match for Text A (line 10): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Highest Jaccard Coefficient: 0.4545
+
+Original Text A (line 11): 線型代数入門泰藤正彥著
+Best Match for Text A (line 11): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Highest Jaccard Coefficient: 0.2917
+
+Original Text A (line 12): GOTOP使用RaspberryPi◎實我ROS機器人自作上田隆200
+Best Match for Text A (line 12): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Highest Jaccard Coefficient: 0.6750
+
+Original Text A (line 13): ROSプログラミング初の本格的入門書
+Best Match for Text A (line 13): ROSプログラミング初の本格的入門書8534
+Highest Jaccard Coefficient: 0.8095
+
+Original Text A (line 14): ROSプログラミング~使用ロボット開発のためのLWWERDKESAe.
+Best Match for Text A (line 14): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Highest Jaccard Coefficient: 0.3556
+
+Original Text A (line 15): ROSプログラミング初の本格的入門書
+Best Match for Text A (line 15): ROSプログラミング初の本格的入門書8534
+Highest Jaccard Coefficient: 0.8095
+
+Original Text A (line 16): ROSロボットプログラミングバイブル」
+Best Match for Text A (line 16): ROSロボットプログラミングバイブル表允晳・倉爪 亮・鄭黎蝹共著
+Highest Jaccard Coefficient: 0.5333
+
+Original Text A (line 17): ROS2ではじめよう次世代ロボットプログラミング
+Best Match for Text A (line 17): ROS2ではじめよう次世代ロボットプログラミング近藤豊[著]
+Highest Jaccard Coefficient: 0.7857
+
+Original Text A (line 18): ROSではじめるロボットプログラミング小
+Best Match for Text A (line 18): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Highest Jaccard Coefficient: 0.5455
+
+Original Text A (line 19): ROSではじめるロボットプログラミング小倉IVE
+Best Match for Text A (line 19): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Highest Jaccard Coefficient: 0.5714
+
+Original Text A (line 20): 杉浦光夫著
+Best Match for Text A (line 20): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Highest Jaccard Coefficient: 0.2381
+
+Original Text A (line 21): SSSSSSSSSSSSSSSSSS
+Best Match for Text A (line 21): 入門シリーズロボットプログラミングROS2入門
+Highest Jaccard Coefficient: 0.0526
+
+Original Text A (line 22): 

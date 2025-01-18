@@ -1,0 +1,72 @@
+Text A (line 1): PythonJupyter笑我人們池内孝呀片树童子、岩尾エマはるか、driller(m)
+Best Match in Text B (line 21): PythonユーザのためのJupyter[実践]入門@driller[著]データ分析JupyterN池内孝啓、片柳薫子、岩尾エマはるか、技術評論社
+Highest Similarity Ratio: 0.4706
+
+Text A (line 2): 実践Rustプログラミング入門安心安全の言語独特な仕完全理解組みを
+Best Match in Text B (line 188): 実践Rustプログラミング入門安心安全の爆速言語独特な仕組みを完全理解
+Highest Similarity Ratio: 0.8857
+
+Text A (line 3): ELATEX2美文書作成入門奥村晴彦黒木裕介REESHE
+Best Match in Text B (line 55): 改訂第7版LATEX2E美文書作成入門奥村晴彦黒木裕介著技術評論社
+Highest Similarity Ratio: 0.6984
+
+Text A (line 4): リファクタリング既存のコードを安全に改善する第2マーチン・ファウラーレガシーコードを安全に進化させる!OMMOhmina
+Best Match in Text B (line 189): リファクタリング既存のコードを安全に改善する第2版マーチン・ファウラー著レガシーコードを安全に進化させる!Ohmina
+Highest Similarity Ratio: 0.9587
+
+Text A (line 5): 1年生のためのITエンジニアまんがでわかるLinux応用ネットワークシェルスクリプトPiroNANAW11254
+Best Match in Text B (line 142): ITエンジニアまんがで1年生のためのわかるLinuxシェルスクリプト応用&ネットワーク操作編Piro著日経BP11254
+Highest Similarity Ratio: 0.6271
+
+Text A (line 6): SD年日人間、シェル・ワンライナー100本ノックシェル・60ワンライナー本上田山田-ノックス上杉E
+Best Match in Text B (line 158): SDplus1日1間、半年以内に習得シェル・ワンライナー160本ノック上田隆一山田泰宏田代勝也中村壮一今泉光之上杉尚史[著]
+Highest Similarity Ratio: 0.4956
+
+Text A (line 7): SD半年以内に習得シェル・ワンライナー60本ノック山田上杉画史E
+Best Match in Text B (line 158): SDplus1日1間、半年以内に習得シェル・ワンライナー160本ノック上田隆一山田泰宏田代勝也中村壮一今泉光之上杉尚史[著]
+Highest Similarity Ratio: 0.6458
+
+Text A (line 8): GitHub実践ガイドCICDGitHubActionsの設計と運用野村友規()E
+Best Match in Text B (line 157): GitHub実践ガイドCICD持続可能なソフトウェア開発を支えるGitHubActionsの設計と運用野村友規[著]
+Highest Similarity Ratio: 0.7723
+
+Text A (line 9): |大規模言語モデル入門IILLMの実装と評価ILLMIIntraductiontoLargeLanguageMedalsBE
+Best Match in Text B (line 159): 大規模言語モデル入門II生成型LLMの実装と評価LLMII山田育矢監修著鈴木正畝西川萩介藤并一喜山田康輔李凌寒著
+Highest Similarity Ratio: 0.4500
+
+Text A (line 10): フルスクラッチからUSP研究所監修CMSを作るシェルスクリプト高速開発手法入門上田隆一、後藤大地ASCI
+Best Match in Text B (line 67): フルスクラッチから1日でCMSを作るシェルスクリプト高速開発手法入門USP研究所監修上田隆一、著後藤大地ASCII
+Highest Similarity Ratio: 0.8108
+
+Text A (line 11): ITエンジニアまんがで1年生のためのわかるLinuxシェルスクリプト&コマンドアップPiro
+Best Match in Text B (line 141): ITエンジニアまんがで1年生のためのわかるLinuxシェルスクリプトコマンド効率アップ編Piro著日経BP11299
+Highest Similarity Ratio: 0.8679
+
+Text A (line 12): DENISONHOLMESMALLICKSMITHBayesianMethodsforNonlinearClassificationandRegressionWILEY
+Best Match in Text B (line 160): DENISONHOLMESMALLICKSMITHBayesianMethodsforNonlinearClassificationandRegressionWILEY
+Highest Similarity Ratio: 1.0000
+
+Text A (line 13): ロボットの確率・統計役立つ上田ロナ社
+Best Match in Text B (line 152): ロボットの確率・統計製作・競技・知能研究で役立つ考え方と計算法上田隆一[著]コロナ社
+Highest Similarity Ratio: 0.6129
+
+Text A (line 14): EffectiveSTL500のSTLを効果的に使いこなす鉄則スコット・メイヤーズ
+Best Match in Text B (line 190): EffectiveSTLSTLを効果的に使いこなす50の鉄則スコット・メイヤーズ著細谷昭訳
+Highest Similarity Ratio: 0.8506
+
+Text A (line 15): KINECTHACKERSMANUALキネクトハッカーズマニュアル西林小野史Rutiesיל
+Best Match in Text B (line 162): KINECTHACKER'SMANUALキネクトハッカーズマニュアル西林孝+小野憲史著Ruteles
+Highest Similarity Ratio: 0.8980
+
+Text A (line 16): 情報科学における確率モデル確率システムにおける制御理論谷
+Best Match in Text B (line 164): シリーズ情報科学における確率モデル6確率システムにおける制御理論向谷博明【著】コロナ社
+Highest Similarity Ratio: 0.7945
+
+Text A (line 17): はじめてのパターン認識平井有三著
+Best Match in Text B (line 161): はじめてのパターン認識平井有三著8497
+Highest Similarity Ratio: 0.8947
+
+Text A (line 18): calizationandSimultaneousMapping「SLAM入門ロボットの自己位置推定と友納正裕(地図構築の技術ANO
+Best Match in Text B (line 69): SimultaneousLocalizationandtaneousMappingSLAM入門ロボットの自己位置推定と地図構築の技術友納正裕MasahiroTomonoOMIOhms[著]
+Highest Similarity Ratio: 0.6667
+

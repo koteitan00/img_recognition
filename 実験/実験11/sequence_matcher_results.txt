@@ -1,0 +1,80 @@
+Text A (line 1): で学ぶRaspberryPiROSロボット入門と上田隆一
+Best Match in Text B (line 38): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Highest Similarity Ratio: 0.7463
+
+Text A (line 2): GOTOPRaspberryPi省實戰ROS機器人自作上田CHEZTR
+Best Match in Text B (line 39): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Highest Similarity Ratio: 0.7750
+
+Text A (line 3): 電子工作&サーバーラズパイ5完全ガイドズバイ
+Best Match in Text B (line 163): 電子工作＆サーバー構築徹底解説!ラズパイ5完全完全ガイド編ラズパイマガジン著日経BP20505
+Highest Similarity Ratio: 0.5915
+
+Text A (line 4): DEPicoW対応!ラズパイPiC完全ガイド
+Best Match in Text B (line 137): 最新PicoW対応!ラズパイPico完全ガイド福田和宏マガジンラズパイ日経BP20177
+Highest Similarity Ratio: 0.5882
+
+Text A (line 5): [確率ロボティクス]SebastianThrun,WolframBurgard,andDieterFoxセバスチャン・スンウルフラム・パーカード、ディーター・フォックス著~.联マイナビ
+Best Match in Text B (line 193): [確率ロボティクス]SebastianThrun,WolframBurgard,andDieterFoxマイナビセバスチャン・スラン、ウルフラム・バーガード、ディーター・フォックス著上田隆一訳
+Highest Similarity Ratio: 0.8842
+
+Text A (line 6): ラズパイ自由自在電子工作パーツ制御完全攻略ラズパイマガジン
+Best Match in Text B (line 86): ラズパイ自由自在電子工作パーツ制御完全攻略松岡貴志著ラズパイマガジン編日経BP11191
+Highest Similarity Ratio: 0.8000
+
+Text A (line 7): MasteringROSforRoboticsProgrammingLentinJosephPACKT
+Best Match in Text B (line 68): MasteringROSforRoboticsProgrammingLentinJosephPACKT*
+Highest Similarity Ratio: 0.9905
+
+Text A (line 8): 実用ロボット開発のためのROSプログラミングBEEGKELL10BABICHFEWPHN
+Best Match in Text B (line 34): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Highest Similarity Ratio: 0.3651
+
+Text A (line 9): ラズパイを使いそう!できる!これ1冊でラズベリー・パイ超入門(改訂第3版)
+Best Match in Text B (line 85): これ1冊でできるラズベリー・パイ超入門ラズパイを使い倒そう!「改訂第3版」ソーテック社
+Highest Similarity Ratio: 0.5366
+
+Text A (line 10): プログラミングROSPythonによるロボットアプリケーション開発MurganQuigleyBrianGerkeyWilliamO.SnartO'REILLY
+Best Match in Text B (line 35): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Highest Similarity Ratio: 0.8508
+
+Text A (line 11): H,解析入門I
+Best Match in Text B (line 12): 数学基礎2解析入門Ⅰ杉浦光夫著東京大学出版会
+Highest Similarity Ratio: 0.3226
+
+Text A (line 12): ROロボットプログラミングバイブル
+Best Match in Text B (line 192): ROSロボットプログラミングバイブル表允晳・倉爪 亮・鄭黎蝹共著
+Highest Similarity Ratio: 0.7059
+
+Text A (line 13): ROS2ではじめようプログラミング次世代ロボット
+Best Match in Text B (line 191): ROS2ではじめよう次世代ロボットプログラミング近藤豊[著]
+Highest Similarity Ratio: 0.6429
+
+Text A (line 14): ROSプログラミング初の本格的入門書
+Best Match in Text B (line 36): ROSプログラミング初の本格的入門書8534
+Highest Similarity Ratio: 0.9048
+
+Text A (line 15): 襞,解析演習·周本和夫N
+Best Match in Text B (line 11): 数学基礎7解析演習杉浦光夫・清水英男金子晃・岡本和夫著東京大学出版会
+Highest Similarity Ratio: 0.3333
+
+Text A (line 16): 襞,線型代数入門齊藤正彥著
+Best Match in Text B (line 10): 数学基礎1線形代数入門斎藤正彦東京大学出版会
+Highest Similarity Ratio: 0.4324
+
+Text A (line 17): PROSロボットプログラミングではじめる小倉
+Best Match in Text B (line 192): ROSロボットプログラミングバイブル表允晳・倉爪 亮・鄭黎蝹共著
+Highest Similarity Ratio: 0.5714
+
+Text A (line 18): ROSプログラミング初の本格的入門
+Best Match in Text B (line 36): ROSプログラミング初の本格的入門書8534
+Highest Similarity Ratio: 0.8780
+
+Text A (line 19): 今はじめるROSロボットプログラミング
+Best Match in Text B (line 191): ROS2ではじめよう次世代ロボットプログラミング近藤豊[著]
+Highest Similarity Ratio: 0.5882
+
+Text A (line 20): 光夫男著岡本和書
+Best Match in Text B (line 143): 02Linuxvi金光雅夫著
+Highest Similarity Ratio: 0.3333
+

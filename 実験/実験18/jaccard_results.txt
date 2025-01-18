@@ -1,0 +1,41 @@
+Original Text A (line 1): 3版詳解LINUXカーネルDANIELP.BOVETMARCOCESATY由美子安井室GARGO'REILLY'O'REILLY
+Best Match for Text A (line 1): 第3版詳解LINUXカーネルDANIELP.BOVETMARCOCESATI高橋浩和監訳杉田由美子、清水正明高杉昌督、平松雅已安井隆宏訳O'REILLY
+Highest Jaccard Coefficient: 0.5789
+
+Original Text A (line 2): 微生物の力学系ル・スミス&ポール・ウォルトマン(7)竹内)日本評論社
+Best Match for Text A (line 2): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Highest Jaccard Coefficient: 0.4898
+
+Original Text A (line 3): DYNAMICALSTEMS力学系国府克词泰山限想
+Best Match for Text A (line 3): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Highest Jaccard Coefficient: 0.4103
+
+Original Text A (line 4): DYNAMICAL力学系國府寬词-柴山伸
+Best Match for Text A (line 4): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Highest Jaccard Coefficient: 0.4444
+
+Original Text A (line 5): Pythonからはじめる数学入門AmitSahaO'REILLY
+Best Match for Text A (line 5): Pythonからはじめる数学入門AmitSaha著豊川利明訳O'REILLY
+Highest Jaccard Coefficient: 0.8235
+
+Original Text A (line 6): 大学集入試験問題数学徹底演習林義実小谷泰介林园
+Best Match for Text A (line 6): 大学編入試験問題数学/徹底演習第3版林義実小谷泰介共著
+Highest Jaccard Coefficient: 0.6786
+
+Original Text A (line 7): 大学編入のための数学問題集日本
+Best Match for Text A (line 7): 大学編入のための数学問題集
+Highest Jaccard Coefficient: 0.8462
+
+Original Text A (line 8): 文科系の応用数学入門切概版小林みどり
+Best Match for Text A (line 8): 文科系の応用数学入門増強版小林みどり著岩波書店
+Highest Jaccard Coefficient: 0.6400
+
+Original Text A (line 9): 大学でらなくなった!大学数学を読み力を手に入れよう
+Best Match for Text A (line 9): あれっ、大学で数学がわからなくなった!大学数学を読み解く力を手に入れよう浅井徹著コロナ社
+Highest Jaccard Coefficient: 0.5882
+
+Original Text A (line 10): annnnnnnnnnnnnnnnnnnnnnnnnnonnnnnnn5555555
+Best Match for Text A (line 10): '24'25地球の歩き方タイGakken
+Highest Jaccard Coefficient: 0.1667
+
+Original Text A (line 11): 

@@ -1,0 +1,52 @@
+Original Text A (line 1): ENISONOLMESALLICKSMITHBayesianMethodsforNonlinearClassificationandRegressionWILEY
+Best Match for Text A (line 1): DENISONHOLMESMALLICKSMITHBayesianMethodsforNonlinearClassificationandRegressionWILEY
+Highest Similarity Ratio: 0.9818
+
+Original Text A (line 2): RaspberryPiROSロボット入門上田隆で学ぶ
+Best Match for Text A (line 2): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Highest Similarity Ratio: 0.7302
+
+Original Text A (line 3): GOTOP使用RaspberryPi楊實戰ROS機器人自作上田隆一著許郁文CHO219
+Best Match for Text A (line 3): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Highest Similarity Ratio: 0.9535
+
+Original Text A (line 4): KINECTHACKER'SMANDALキストハッカーズマニュアル西林孝小野恵史RutiesУ
+Best Match for Text A (line 4): KINECTHACKER'SMANUALキネクトハッカーズマニュアル西林孝+小野憲史著Ruteles
+Highest Similarity Ratio: 0.8660
+
+Original Text A (line 5): 実用ロボット開発のためのROSプログラミング四津川山崎公俊田石田裕太郎e6758
+Best Match for Text A (line 5): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Highest Similarity Ratio: 0.6000
+
+Original Text A (line 6): MoosingLocalizationandSimultaneousISLAM入門地図構築の技術ロボットの自己位置推定と友納正裕(UNOChesne
+Best Match for Text A (line 6): SimultaneousLocalizationandtaneousMappingSLAM入門ロボットの自己位置推定と地図構築の技術友納正裕MasahiroTomonoOMIOhms[著]
+Highest Similarity Ratio: 0.5833
+
+Original Text A (line 7): ラズパイ自由自己電子工作パーツ制御完全攻略ラズパイガジンBURP***BY
+Best Match for Text A (line 7): ラズパイ自由自在電子工作パーツ制御完全攻略松岡貴志著ラズパイマガジン編日経BP11191
+Highest Similarity Ratio: 0.7160
+
+Original Text A (line 8): neous情報科学における確率システムにおける制御理論向谷博明【
+Best Match for Text A (line 8): シリーズ情報科学における確率モデル6確率システムにおける制御理論向谷博明【著】コロナ社
+Highest Similarity Ratio: 0.7200
+
+Original Text A (line 9): はじめてのパターン認識平井有三著
+Best Match for Text A (line 9): はじめてのパターン認識平井有三著8497
+Highest Similarity Ratio: 0.8889
+
+Original Text A (line 10): 電子工作&サーバー徹底解説!ラズパイ5完全ガイドラズパイマガジン|福田和宏
+Best Match for Text A (line 10): 電子工作＆サーバー構築徹底解説!ラズパイ5完全完全ガイド編ラズパイマガジン著日経BP20505
+Highest Similarity Ratio: 0.7381
+
+Original Text A (line 11): 最新PicoW対応!ラズパイPic完全ガイド福田和宏マガジンラズパイ20177RP20177
+Best Match for Text A (line 11): 最新PicoW対応!ラズパイPico完全ガイド福田和宏マガジンラズパイ日経BP20177
+Highest Similarity Ratio: 0.8889
+
+Original Text A (line 12): これ1冊でできる!ラズベリー・パイ超入門■ラズパイを使いそう!「改訂第3版」
+Best Match for Text A (line 12): これ1冊でできるラズベリー・パイ超入門ラズパイを使い倒そう!「改訂第3版」ソーテック社
+Highest Similarity Ratio: 0.8889
+
+Original Text A (line 13): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.SmartO'REILLY
+Best Match for Text A (line 13): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Highest Similarity Ratio: 0.8827
+

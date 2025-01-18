@@ -1,0 +1,32 @@
+Original Text A (line 1): 第3版詳解LINUXカーネルDANIELP.DOVETMARCOCESATYGXTG男子、本明O'REILLYO'REILLY
+Best Match for Text A (line 1): 第3版詳解LINUXカーネルDANIELP.BOVETMARCOCESATI高橋浩和監訳杉田由美子、清水正明高杉昌督、平松雅已安井隆宏訳O'REILLY
+Highest Similarity Ratio: 0.6763
+
+Original Text A (line 2): KNECTHACKER'SMANキネクトハッカーズマニ西小野史RutiesN
+Best Match for Text A (line 2): KINECTHACKER'SMANUALキネクトハッカーズマニュアル西林孝+小野憲史著Ruteles
+Highest Similarity Ratio: 0.8182
+
+Original Text A (line 3): HOLMESMALLICKSMITHNOSINGOBayesianMethodsforMontcarClassificationandRegressionATT
+Best Match for Text A (line 3): DENISONHOLMESMALLICKSMITHBayesianMethodsforNonlinearClassificationandRegressionWILEY
+Highest Similarity Ratio: 0.8171
+
+Original Text A (line 4): Localizationand【SLAM入門ANO
+Best Match for Text A (line 4): SimultaneousLocalizationandtaneousMappingSLAM入門ロボットの自己位置推定と地図構築の技術友納正裕MasahiroTomonoOMIOhms[著]
+Highest Similarity Ratio: 0.3697
+
+Original Text A (line 5): 知の創成身体性認知科学への招待R.PfeiferC.Scheier石周章夫一著小林宏監訳
+Best Match for Text A (line 5): 知の創成身体性認知科学への招待R.PfeiferC.Scheier著石黒章夫著小林宏監訳細田耕
+Highest Similarity Ratio: 0.9231
+
+Original Text A (line 6): モデル一確率システムにおける制御理論
+Best Match for Text A (line 6): シリーズ情報科学における確率モデル6確率システムにおける制御理論向谷博明【著】コロナ社
+Highest Similarity Ratio: 0.5574
+
+Original Text A (line 7): はじめてのパターン認識FRE
+Best Match for Text A (line 7): はじめてのパターン認識平井有三著8497
+Highest Similarity Ratio: 0.6471
+
+Original Text A (line 8): 身体性認知科学への招待C.Scheier田本
+Best Match for Text A (line 8): 知の創成身体性認知科学への招待R.PfeiferC.Scheier著石黒章夫著小林宏監訳細田耕
+Highest Similarity Ratio: 0.6087
+

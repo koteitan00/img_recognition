@@ -1,0 +1,108 @@
+Original Text A (line 1): 統計のための行列代数DAハーヴィル著伊理正監訳夫€AN
+Best Match for Text A (line 1): 統計のための行列代数下DAハーヴィル著伊藤正夫監訳丸善
+Highest Jaccard Coefficient: 0.7586
+
+Original Text A (line 2): DINAMICALMYSTEMS力学系
+Best Match for Text A (line 2): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Highest Jaccard Coefficient: 0.4242
+
+Original Text A (line 3): トクショナルシリーズ数理統計学の基礎尾畑伸明(
+Best Match for Text A (line 3): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Highest Jaccard Coefficient: 0.6897
+
+Original Text A (line 4): 入門ベイズ統計意思決定の理論と発展松原望
+Best Match for Text A (line 4): 入門ベイズ統計意思決定の理論と発展松原望著東京図書
+Highest Jaccard Coefficient: 0.8000
+
+Original Text A (line 5): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSE
+Best Match for Text A (line 5): Pythonで学ぶあたらしい統計学の教科書統計学はどのような学問なのだろうSESHOESHA
+Highest Jaccard Coefficient: 0.9091
+
+Original Text A (line 6): 微生物の力学系ハル・スミス&ポール・ウォルトマン(著)竹内康博日本評論社
+Best Match for Text A (line 6): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Highest Jaccard Coefficient: 0.5833
+
+Original Text A (line 7): Pythonからはじめる数学入門AmitSahaE&T&O'REILLY
+Best Match for Text A (line 7): Pythonからはじめる数学入門AmitSaha著豊川利明訳O'REILLY
+Highest Jaccard Coefficient: 0.7778
+
+Original Text A (line 8): DYNAMICALSYSTEMS力学系國府意词-南山健外周宏枝飒
+Best Match for Text A (line 8): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Highest Jaccard Coefficient: 0.5000
+
+Original Text A (line 9): ·大学楣入試験問題数学徹底演習第3版林義実小谷泰介
+Best Match for Text A (line 9): 大学編入試験問題数学/徹底演習第3版林義実小谷泰介共著
+Highest Jaccard Coefficient: 0.7857
+
+Original Text A (line 10): RAフィッシャー研究者のための統計的方法R.A.FisherWESHBUMAIGe
+Best Match for Text A (line 10): RAフィッシャー研究者のための統計的方法R.A.Fisher[著]遠藤健児鍋谷清治[訳]0908
+Highest Jaccard Coefficient: 0.5200
+
+Original Text A (line 11): マルコフ連鎖から格子確率モデルへRBシナジ著今野紀林訳
+Best Match for Text A (line 11): マルコフ連鎖から格子確率モデルへ現代確率論の基礎と応用RBシナジ著今野紀雄/林俊一訳
+Highest Jaccard Coefficient: 0.6667
+
+Original Text A (line 12): ベイズ推定入門モデル選択からペイズ化まで大関真之著OWN
+Best Match for Text A (line 12): ベイズ推定入門モデル選択からベイズ的最適化まで大関真之著
+Highest Jaccard Coefficient: 0.7586
+
+Original Text A (line 13): 異常検知と変化機知井手
+Best Match for Text A (line 13): MLP異常検知と変化検知井手剛杉山将講談社講談社
+Highest Jaccard Coefficient: 0.4500
+
+Original Text A (line 14): やさしく知りたいシリーズベイズ統計学松原望元社
+Best Match for Text A (line 14): やさしく知りたい先端科学シリーズ1ベイズ統計学松原望創元社創元社
+Highest Jaccard Coefficient: 0.8148
+
+Original Text A (line 15): 大学編入のための数学問題集KING
+Best Match for Text A (line 15): 大学編入のための数学問題集
+Highest Jaccard Coefficient: 0.7333
+
+Original Text A (line 16): ライトノベルでわかる確率3時間でだいたいマスターストーリー野口哲典ERUNONG
+Best Match for Text A (line 16): ライトノベルでわかる3時間でだいたいマスター著・ストーリー原案:野口哲典レベル:たまごまご
+Highest Jaccard Coefficient: 0.6098
+
+Original Text A (line 17): 挫折しない統計学入門数学苦手意識を克服する浅野発OMM
+Best Match for Text A (line 17): 挫折しない統計学入門数学苦手意識を克服する浅野晃著Ohmsha
+Highest Jaccard Coefficient: 0.7419
+
+Original Text A (line 18): 経営科学のための確率統計入門村
+Best Match for Text A (line 18): 経営科学のための確率統計入門田村信幸著コロナ社
+Highest Jaccard Coefficient: 0.6364
+
+Original Text A (line 19): 文科系の応用数学入門増小林みどり箸
+Best Match for Text A (line 19): 文科系の応用数学入門増強版小林みどり著岩波書店
+Highest Jaccard Coefficient: 0.6667
+
+Original Text A (line 20): シリーズ数理統計学の基礎尾畑伸明!
+Best Match for Text A (line 20): クロスセクショナル統計シリーズ1数理統計学の基礎尾畑伸明[著]
+Highest Jaccard Coefficient: 0.5714
+
+Original Text A (line 21): 大学で数学がわからなくなった!大学数学を読み解を手に入れよう
+Best Match for Text A (line 21): あれっ、大学で数学がわからなくなった!大学数学を読み解く力を手に入れよう浅井徹著コロナ社
+Highest Jaccard Coefficient: 0.6765
+
+Original Text A (line 22): トピックモデル岩田真治
+Best Match for Text A (line 22): MLP機械学習プロフェッショナルシリーズトピックモデル岩田真治
+Highest Jaccard Coefficient: 0.3929
+
+Original Text A (line 23): 変分ベイズ学習中島伸一www
+Best Match for Text A (line 23): MLP機械学習プロフェッショナルシリーズ変分ベイズ学習中島真一
+Highest Jaccard Coefficient: 0.3448
+
+Original Text A (line 24): LocalisatiosandMappingSLANKE84440NA地図の技術12-ONY
+Best Match for Text A (line 24): DENISONHOLMESMALLICKSMITHBayesianMethodsforNonlinearClassificationandRegressionWILEY
+Highest Jaccard Coefficient: 0.4318
+
+Original Text A (line 25): にお確率システムにおける
+Best Match for Text A (line 25): シリーズ情報科学における確率モデル6確率システムにおける制御理論向谷博明【著】コロナ社
+Highest Jaccard Coefficient: 0.2778
+
+Original Text A (line 26): ハン認識平井有三著!
+Best Match for Text A (line 26): はじめてのパターン認識平井有三著8497
+Highest Jaccard Coefficient: 0.3636
+
+Original Text A (line 27): LocalizationandMapping9ターン認識平井確率システムにおける利WILEY
+Best Match for Text A (line 27): DENISONHOLMESMALLICKSMITHBayesianMethodsforNonlinearClassificationandRegressionWILEY
+Highest Jaccard Coefficient: 0.2830
+

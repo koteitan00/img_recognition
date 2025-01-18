@@ -1,0 +1,52 @@
+Text A (line 1): 第3版詳解LINUXカーネルMARCOCESATEDANEP.BOVET平O'REILLYO'REILLY
+Best Match in Text B (line 150): 第3版詳解LINUXカーネルDANIELP.BOVETMARCOCESATI高橋浩和監訳杉田由美子、清水正明高杉昌督、平松雅已安井隆宏訳O'REILLY
+Highest Similarity Ratio: 0.5191
+
+Text A (line 2): CompoteAAQAppヘネシー&パターソンコンピュータアーキテクチャデイビッド・パターソンジョンレベキシー定量的アプローチ第5版HRWD(1)鲜
+Best Match in Text B (line 58): ComputerArchitecture:AQuantitativeApproach5Eヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版ジョン・L・ヘネシーデイビッド・A・パターソン中條拓伯天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Highest Similarity Ratio: 0.4747
+
+Text A (line 3): ZigBeeWi-FiArduinoプログラム全集CO出版社
+Best Match in Text B (line 165): Zigbee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Highest Similarity Ratio: 0.6818
+
+Text A (line 4): ARの教科書DieterSchmalstieg.TobiasHöllerer()すべての人に必携の書ARに興味あるw.マイナビ
+Best Match in Text B (line 136): ARの教科書DieterSchmalstieg,TobiasHöllerer[著]すべての人に必携の書ARに興味あるマイナビ
+Highest Similarity Ratio: 0.9291
+
+Text A (line 5): FPGA'プログラミング大全小林FaltProgrammableGateAayXilinx
+Best Match in Text B (line 65): FPGAプログラミング大全小林優FieldProgrammableXilinx編GateArrayKobayashiMasaru[著]
+Highest Similarity Ratio: 0.6316
+
+Text A (line 6): UnityC#0いたのくまんぼうリブロワークス目
+Best Match in Text B (line 166): Unity2020対応UnityではじめるC#基礎編改訂版いたのくまんぼう監修リブロワークス著
+Highest Similarity Ratio: 0.6301
+
+Text A (line 7): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludiO'RELLY
+Best Match in Text B (line 132): 第3版初めてのPythonMarkLutz夏目大訳O'REILLY
+Highest Similarity Ratio: 0.2697
+
+Text A (line 8): 1,280かんたん合格2基本情報技術者教科書
+Best Match in Text B (line 126): [定価]本体1,280円+税かんたん合格平成29年度基本情報技術者試験教科書
+Highest Similarity Ratio: 0.7419
+
+Text A (line 9): 詳解確率ロボティクスPythonによる基礎アルゴリズムの実
+Best Match in Text B (line 116): 詳解確率ロボティクスPythonによる基礎アルゴリズムの実装上田隆一[著]講談社
+Highest Similarity Ratio: 0.8451
+
+Text A (line 10): 地球の歩き方ビタイOakken
+Best Match in Text B (line 151): '24'25地球の歩き方タイGakken
+Highest Similarity Ratio: 0.7568
+
+Text A (line 11): イノベーションの創出「風洋路線
+Best Match in Text B (line 153): 横幹<知の挑戦>シリーズイノベーションの創出編著長沢伸也晃洋書房
+Highest Similarity Ratio: 0.4898
+
+Text A (line 12): ロボットの確率・統計コロナ
+Best Match in Text B (line 152): ロボットの確率・統計製作・競技・知能研究で役立つ考え方と計算法上田隆一[著]コロナ社
+Highest Similarity Ratio: 0.4912
+
+Text A (line 13): ששששש
+Best Match in Text B (line 129): 合格平成29年度
+Highest Similarity Ratio: 0.1333
+

@@ -1,0 +1,61 @@
+Original Text A (line 1): AQuanticAppaヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版ジョンヘネシーデイビッド・A・パターソン中野
+Best Match for Text A (line 1): ComputerArchitecture:AQuantitativeApproach5Eヘネシー&パターソンコンピュータアーキテクチャ定量的アプローチ第5版ジョン・L・ヘネシーデイビッド・A・パターソン中條拓伯天野英晴鈴木貢吉潮謙二佐藤寿倫SE
+Highest Jaccard Coefficient: 0.6164
+
+Original Text A (line 2): 第3版詳解LINUXカーネル安沢高杉督、平松杉田由美子、清水正明高橋浩和MARCOCENATIDANIELP.BOVETO'REILLYCILLI
+Best Match for Text A (line 2): 第3版詳解LINUXカーネルDANIELP.BOVETMARCOCESATI高橋浩和監訳杉田由美子、清水正明高杉昌督、平松雅已安井隆宏訳O'REILLY
+Highest Jaccard Coefficient: 0.8214
+
+Original Text A (line 3): (1,280専門+税かんたん合格12基本情報技術者教科書
+Best Match for Text A (line 3): [定価]本体1,280円+税かんたん合格平成29年度基本情報技術者試験教科書
+Highest Jaccard Coefficient: 0.5789
+
+Original Text A (line 4): DieterSchmalstieg,TobiasHöllerer[]ARの教科書すべての人に必携の書ARに興味あるw.マイナビ
+Best Match for Text A (line 4): ARの教科書DieterSchmalstieg,TobiasHöllerer[著]すべての人に必携の書ARに興味あるマイナビ
+Highest Jaccard Coefficient: 0.9333
+
+Original Text A (line 5): FPGAプログラミング大全小林優
+Best Match for Text A (line 5): FPGAプログラミング大全小林優FieldProgrammableXilinx編GateArrayKobayashiMasaru[著]
+Highest Jaccard Coefficient: 0.3846
+
+Original Text A (line 6): 確率システムにおける制御理論電棒
+Best Match for Text A (line 6): シリーズ情報科学における確率モデル6確率システムにおける制御理論向谷博明【著】コロナ社
+Highest Jaccard Coefficient: 0.3684
+
+Original Text A (line 7): はじめてのパターン認識平井有三著
+Best Match for Text A (line 7): はじめてのパターン認識平井有三著8497
+Highest Jaccard Coefficient: 0.8000
+
+Original Text A (line 8): DENISONHOLMESMALLICKSMITHBayesianMethodsforNonlinearClassificationandRegression
+Best Match for Text A (line 8): DENISONHOLMESMALLICKSMITHBayesianMethodsforNonlinearClassificationandRegressionWILEY
+Highest Jaccard Coefficient: 0.9375
+
+Original Text A (line 9): UnitySC#いたのくまんぼう長基礎編MdN
+Best Match for Text A (line 9): Unity2020対応UnityではじめるC#基礎編改訂版いたのくまんぼう監修リブロワークス著
+Highest Jaccard Coefficient: 0.4000
+
+Original Text A (line 10): 地球の歩き方Gakken
+Best Match for Text A (line 10): '24'25地球の歩き方タイGakken
+Highest Jaccard Coefficient: 0.6471
+
+Original Text A (line 11): BluetoothESEZigBeeWi-FiArduinoプログラム全集св-армCO出版社
+Best Match for Text A (line 11): Zigbee/Wi-Fi/Bluetooth無線用Arduinoプログラム全集国野亘著CD-ROM付きCQ出版社
+Highest Jaccard Coefficient: 0.5686
+
+Original Text A (line 12): ロボットの確率・統計コロナ
+Best Match for Text A (line 12): ロボットの確率・統計製作・競技・知能研究で役立つ考え方と計算法上田隆一[著]コロナ社
+Highest Jaccard Coefficient: 0.3158
+
+Original Text A (line 13): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludiO'REILLY
+Best Match for Text A (line 13): Make:PROJECTSXBeeで作るワイヤレスセンサーネットワークRobertFaludi著小林茂監訳水原文訳O'RELLY
+Highest Jaccard Coefficient: 0.8113
+
+Original Text A (line 14): イノベーションの創出社会「長沢伸也食品
+Best Match for Text A (line 14): 横幹<知の挑戦>シリーズイノベーションの創出編著長沢伸也晃洋書房
+Highest Jaccard Coefficient: 0.4118
+
+Original Text A (line 15): BianandMappingSLAM入門ロボットANO
+Best Match for Text A (line 15): SimultaneousLocalizationandtaneousMappingSLAM入門ロボットの自己位置推定と地図構築の技術友納正裕MasahiroTomonoOMIOhms[著]
+Highest Jaccard Coefficient: 0.3208
+
+Original Text A (line 16): 

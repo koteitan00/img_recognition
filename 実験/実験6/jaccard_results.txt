@@ -1,0 +1,72 @@
+Original Text A (line 1): PythonJupyter笑我人們池内孝呀片树童子、岩尾エマはるか、driller(m)
+Best Match for Text A (line 1): PythonユーザのためのJupyter[実践]入門@driller[著]データ分析JupyterN池内孝啓、片柳薫子、岩尾エマはるか、技術評論社
+Highest Jaccard Coefficient: 0.4219
+
+Original Text A (line 2): 実践Rustプログラミング入門安心安全の言語独特な仕完全理解組みを
+Best Match for Text A (line 2): 実践Rustプログラミング入門安心安全の爆速言語独特な仕組みを完全理解
+Highest Jaccard Coefficient: 0.9375
+
+Original Text A (line 3): ELATEX2美文書作成入門奥村晴彦黒木裕介REESHE
+Best Match for Text A (line 3): 改訂第7版LATEX2E美文書作成入門奥村晴彦黒木裕介著技術評論社
+Highest Jaccard Coefficient: 0.6000
+
+Original Text A (line 4): リファクタリング既存のコードを安全に改善する第2マーチン・ファウラーレガシーコードを安全に進化させる!OMMOhmina
+Best Match for Text A (line 4): リファクタリング既存のコードを安全に改善する第2版マーチン・ファウラー著レガシーコードを安全に進化させる!Ohmina
+Highest Jaccard Coefficient: 0.9333
+
+Original Text A (line 5): 1年生のためのITエンジニアまんがでわかるLinux応用ネットワークシェルスクリプトPiroNANAW11254
+Best Match for Text A (line 5): ITエンジニアまんがで1年生のためのわかるLinuxシェルスクリプト応用&ネットワーク操作編Piro著日経BP11254
+Highest Jaccard Coefficient: 0.8036
+
+Original Text A (line 6): SD年日人間、シェル・ワンライナー100本ノックシェル・60ワンライナー本上田山田-ノックス上杉E
+Best Match for Text A (line 6): SDplus1日1間、半年以内に習得シェル・ワンライナー160本ノック上田隆一山田泰宏田代勝也中村壮一今泉光之上杉尚史[著]
+Highest Jaccard Coefficient: 0.4500
+
+Original Text A (line 7): SD半年以内に習得シェル・ワンライナー60本ノック山田上杉画史E
+Best Match for Text A (line 7): SDplus1日1間、半年以内に習得シェル・ワンライナー160本ノック上田隆一山田泰宏田代勝也中村壮一今泉光之上杉尚史[著]
+Highest Jaccard Coefficient: 0.5172
+
+Original Text A (line 8): GitHub実践ガイドCICDGitHubActionsの設計と運用野村友規()E
+Best Match for Text A (line 8): GitHub実践ガイドCICD持続可能なソフトウェア開発を支えるGitHubActionsの設計と運用野村友規[著]
+Highest Jaccard Coefficient: 0.5577
+
+Original Text A (line 9): |大規模言語モデル入門IILLMの実装と評価ILLMIIntraductiontoLargeLanguageMedalsBE
+Best Match for Text A (line 9): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Highest Jaccard Coefficient: 0.3409
+
+Original Text A (line 10): フルスクラッチからUSP研究所監修CMSを作るシェルスクリプト高速開発手法入門上田隆一、後藤大地ASCI
+Best Match for Text A (line 10): フルスクラッチから1日でCMSを作るシェルスクリプト高速開発手法入門USP研究所監修上田隆一、著後藤大地ASCII
+Highest Jaccard Coefficient: 0.9200
+
+Original Text A (line 11): ITエンジニアまんがで1年生のためのわかるLinuxシェルスクリプト&コマンドアップPiro
+Best Match for Text A (line 11): ITエンジニアまんがで1年生のためのわかるLinuxシェルスクリプトコマンド効率アップ編Piro著日経BP11299
+Highest Jaccard Coefficient: 0.8000
+
+Original Text A (line 12): DENISONHOLMESMALLICKSMITHBayesianMethodsforNonlinearClassificationandRegressionWILEY
+Best Match for Text A (line 12): DENISONHOLMESMALLICKSMITHBayesianMethodsforNonlinearClassificationandRegressionWILEY
+Highest Jaccard Coefficient: 1.0000
+
+Original Text A (line 13): ロボットの確率・統計役立つ上田ロナ社
+Best Match for Text A (line 13): ロボットの確率・統計製作・競技・知能研究で役立つ考え方と計算法上田隆一[著]コロナ社
+Highest Jaccard Coefficient: 0.4474
+
+Original Text A (line 14): EffectiveSTL500のSTLを効果的に使いこなす鉄則スコット・メイヤーズ
+Best Match for Text A (line 14): EffectiveSTLSTLを効果的に使いこなす50の鉄則スコット・メイヤーズ著細谷昭訳
+Highest Jaccard Coefficient: 0.8750
+
+Original Text A (line 15): KINECTHACKERSMANUALキネクトハッカーズマニュアル西林小野史Rutiesיל
+Best Match for Text A (line 15): KINECTHACKER'SMANUALキネクトハッカーズマニュアル西林孝+小野憲史著Ruteles
+Highest Jaccard Coefficient: 0.8000
+
+Original Text A (line 16): 情報科学における確率モデル確率システムにおける制御理論谷
+Best Match for Text A (line 16): シリーズ情報科学における確率モデル6確率システムにおける制御理論向谷博明【著】コロナ社
+Highest Jaccard Coefficient: 0.6111
+
+Original Text A (line 17): はじめてのパターン認識平井有三著
+Best Match for Text A (line 17): はじめてのパターン認識平井有三著8497
+Highest Jaccard Coefficient: 0.8000
+
+Original Text A (line 18): calizationandSimultaneousMapping「SLAM入門ロボットの自己位置推定と友納正裕(地図構築の技術ANO
+Best Match for Text A (line 18): SimultaneousLocalizationandtaneousMappingSLAM入門ロボットの自己位置推定と地図構築の技術友納正裕MasahiroTomonoOMIOhms[著]
+Highest Jaccard Coefficient: 0.8148
+

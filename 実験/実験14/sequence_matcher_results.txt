@@ -1,0 +1,56 @@
+Text A (line 1): 第3版詳解LINUXカーネルMARCOCESATYDANIELP.BOVETNOO'REILLYO'REILLY
+Best Match in Text B (line 150): 第3版詳解LINUXカーネルDANIELP.BOVETMARCOCESATI高橋浩和監訳杉田由美子、清水正明高杉昌督、平松雅已安井隆宏訳O'REILLY
+Highest Similarity Ratio: 0.5821
+
+Text A (line 2): パターン認識と機械学習ベイズによるCM・ビショップ€AB
+Best Match in Text B (line 167): パターン認識と機械学習上ベイズによる統計的予測C・M・ビショップ著元田浩/栗田多喜夫/樋口知之/松本裕治/村田昇監訳丸善
+Highest Similarity Ratio: 0.5778
+
+Text A (line 3): パターン認識と機械学習ベイズによる手ICM・ビショップ€AB
+Best Match in Text B (line 167): パターン認識と機械学習上ベイズによる統計的予測C・M・ビショップ著元田浩/栗田多喜夫/樋口知之/松本裕治/村田昇監訳丸善
+Highest Similarity Ratio: 0.5652
+
+Text A (line 4): Aプログラミングスマートスピーカー自分でつくる人工知能AmazonEcho.GoogleHomeポンダッドw.マイナビ
+Best Match in Text B (line 178): スマートスピーカー×AIプログラミング自分でつくる人工知能AmazonEcho.GoogleHome対応ポンダッド[著]マイナビ
+Highest Similarity Ratio: 0.8000
+
+Text A (line 5): パターン認識と機械学習ベイズによるC-M・ビショップ大
+Best Match in Text B (line 167): パターン認識と機械学習上ベイズによる統計的予測C・M・ビショップ著元田浩/栗田多喜夫/樋口知之/松本裕治/村田昇監訳丸善
+Highest Similarity Ratio: 0.5843
+
+Text A (line 6): ReinforcementAnIntroductionLearningRichardS.SuttonandsecondeditionAndrewG.Barto
+Best Match in Text B (line 62): ReinforcementLearningAnIntroductionsecondeditionRichardS.SuttonandAndrewG.Barto
+Highest Similarity Ratio: 0.7875
+
+Text A (line 7): 自由エネルギー原理入門・コミュニケーションの
+Best Match in Text B (line 176): 自由エネルギー原理入門知覚・行動・コミュニケーションの計算理論乾敏郎阪口豊岩波書店
+Highest Similarity Ratio: 0.7077
+
+Text A (line 8): Pythonで実践する強化学習と転移学習
+Best Match in Text B (line 28): Pythonで実践する強化学習と転移学習河野仁著8585
+Highest Similarity Ratio: 0.8400
+
+Text A (line 9): Chainerで学ぶディープラーニング入門大埔做志
+Best Match in Text B (line 195): Chainerで学ぶディープラーニング入門島田直希大浦健志技術評論社
+Highest Similarity Ratio: 0.7869
+
+Text A (line 10): 速習強化学習CubaSzepesvári•小山田創作著著花-园田新一小山雅典着夏
+Best Match in Text B (line 61): 速習強化学習CsabaSzepesvári著小山田創哲訳者代表・編集前田新一・小山雅典監訳
+Highest Similarity Ratio: 0.7126
+
+Text A (line 11): 機械学習のための特徴量エンジニアリングそのとPythons40AmandaCasanO'REILLY
+Best Match in Text B (line 194): 機械学習のための特徴量エンジニアリングその原理とPythonによる実践AliceThengAmandaCasari著株式会社ホクソエム訳O'REILLYSPHOUSESAS
+Highest Similarity Ratio: 0.6812
+
+Text A (line 12): 二硝子ロボティクス]SebastianThrun,WolframBurgard,andDieterFoxセバスチャン・スンウルフラム・バーガード、ディーター・フォックス上田隆~.マイナビ
+Best Match in Text B (line 193): [確率ロボティクス]SebastianThrun,WolframBurgard,andDieterFoxマイナビセバスチャン・スラン、ウルフラム・バーガード、ディーター・フォックス著上田隆一訳
+Highest Similarity Ratio: 0.8901
+
+Text A (line 13): 
+Best Match in Text B (line 129): 合格平成29年度
+Highest Similarity Ratio: 0.2000
+
+Text A (line 14): ששששששששששששששששששש
+Best Match in Text B (line 129): 合格平成29年度
+Highest Similarity Ratio: 0.0690
+

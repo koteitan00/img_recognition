@@ -1,0 +1,44 @@
+Text A (line 1): 3版詳解LINUXカーネルDANIELP.BOVETMARCOCESATY由美子安井室GARGO'REILLY'O'REILLY
+Best Match in Text B (line 150): 第3版詳解LINUXカーネルDANIELP.BOVETMARCOCESATI高橋浩和監訳杉田由美子、清水正明高杉昌督、平松雅已安井隆宏訳O'REILLY
+Highest Similarity Ratio: 0.7042
+
+Text A (line 2): 微生物の力学系ル・スミス&ポール・ウォルトマン(7)竹内)日本評論社
+Best Match in Text B (line 14): 微生物の力学系ケモスタット理論を通してハル・スミス＆ポール・ウォルトマン[著]竹内康博[監訳]日本評議院
+Highest Similarity Ratio: 0.6364
+
+Text A (line 3): DYNAMICALSTEMS力学系国府克词泰山限想
+Best Match in Text B (line 1): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Highest Similarity Ratio: 0.5882
+
+Text A (line 4): DYNAMICAL力学系國府寬词-柴山伸
+Best Match in Text B (line 1): DYNAMICALSYSTEMS力学系上C・ロビンソン著國府寛司・柴山健伸岡宏枝訳
+Highest Similarity Ratio: 0.5714
+
+Text A (line 5): Pythonからはじめる数学入門AmitSahaO'REILLY
+Best Match in Text B (line 180): Pythonからはじめる数学入門AmitSaha著豊川利明訳O'REILLY
+Highest Similarity Ratio: 0.9167
+
+Text A (line 6): 大学集入試験問題数学徹底演習林義実小谷泰介林园
+Best Match in Text B (line 181): 大学編入試験問題数学/徹底演習第3版林義実小谷泰介共著
+Highest Similarity Ratio: 0.8077
+
+Text A (line 7): 大学編入のための数学問題集日本
+Best Match in Text B (line 19): 大学編入のための数学問題集
+Highest Similarity Ratio: 0.9333
+
+Text A (line 8): 文科系の応用数学入門切概版小林みどり
+Best Match in Text B (line 18): 文科系の応用数学入門増強版小林みどり著岩波書店
+Highest Similarity Ratio: 0.7907
+
+Text A (line 9): 大学でらなくなった!大学数学を読み力を手に入れよう
+Best Match in Text B (line 185): あれっ、大学で数学がわからなくなった!大学数学を読み解く力を手に入れよう浅井徹著コロナ社
+Highest Similarity Ratio: 0.7324
+
+Text A (line 10): annnnnnnnnnnnnnnnnnnnnnnnnnonnnnnnn5555555
+Best Match in Text B (line 13): Structure and Interpretation of Computer Programs Second Edition Abelson and Sussman
+Highest Similarity Ratio: 0.1719
+
+Text A (line 11): 
+Best Match in Text B (line 129): 合格平成29年度
+Highest Similarity Ratio: 0.2000
+

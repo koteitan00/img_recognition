@@ -1,0 +1,116 @@
+Original Text A (line 1): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart谷訳O'REILLY
+Best Match for Text A (line 1): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Highest Jaccard Coefficient: 0.7647
+
+Original Text A (line 2): ・PB・[確率ロボティクス]SebastianThrun,WolframBurgard,andDieterセバスチャン・スラン、ウルフラム・バーガード、ディーター・フォックス著上田隆一訳Foxw.鮮マイナビ
+Best Match for Text A (line 2): [確率ロボティクス]SebastianThrun,WolframBurgard,andDieterFoxマイナビセバスチャン・スラン、ウルフラム・バーガード、ディーター・フォックス著上田隆一訳
+Highest Jaccard Coefficient: 0.9403
+
+Original Text A (line 3): 新基礎数学FundamentalMathematics.
+Best Match for Text A (line 3): 新基礎数学FundamentalMathematics大日本図書
+Highest Jaccard Coefficient: 0.7600
+
+Original Text A (line 4): MasteringROSforRoboticsProgrammingLentinJosephPACKT
+Best Match for Text A (line 4): MasteringROSforRoboticsProgrammingLentinJosephPACKT*
+Highest Jaccard Coefficient: 0.9630
+
+Original Text A (line 5): 新微分積分IDifferentialANDintegral1
+Best Match for Text A (line 5): 新微分積分IDifferentialANDIntegralI大日本図書
+Highest Jaccard Coefficient: 0.7391
+
+Original Text A (line 6): ROSロボットプログラミングではじめる小倉崇
+Best Match for Text A (line 6): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Highest Jaccard Coefficient: 0.6061
+
+Original Text A (line 7): 統計のための行列代数DAハーヴィル著伊正夫監訳:3
+Best Match for Text A (line 7): 統計のための行列代数下DAハーヴィル著伊藤正夫監訳丸善
+Highest Jaccard Coefficient: 0.7857
+
+Original Text A (line 8): 実用ロボット開発のためのROSプログラミング西洋平大川石田太郎
+Best Match for Text A (line 8): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Highest Jaccard Coefficient: 0.4516
+
+Original Text A (line 9): 新微分積分IDifferentialANDintegralLKO·
+Best Match for Text A (line 9): 新微分積分IDifferentialANDIntegralI大日本図書
+Highest Jaccard Coefficient: 0.6538
+
+Original Text A (line 10): 電子工作パーツ制御完全攻略
+Best Match for Text A (line 10): ラズパイ自由自在電子工作パーツ制御完全攻略松岡貴志著ラズパイマガジン編日経BP11191
+Highest Jaccard Coefficient: 0.3714
+
+Original Text A (line 11): ROSプログラミング初の本格的入門
+Best Match for Text A (line 11): ROSプログラミング初の本格的入門書8534
+Highest Jaccard Coefficient: 0.7619
+
+Original Text A (line 12): GOTOP使用RaspberryPROS機器人自作88實戰上田隆一著許郁文CHO219
+Best Match for Text A (line 12): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Highest Jaccard Coefficient: 0.8974
+
+Original Text A (line 13): DENISONHOLMESMALLICKSMITHBayesianMethodsforNonlinearClassificationandRegressionANA
+Best Match for Text A (line 13): DENISONHOLMESMALLICKSMITHBayesianMethodsforNonlinearClassificationandRegressionWILEY
+Highest Jaccard Coefficient: 0.9375
+
+Original Text A (line 14): ROS2ではじめよう次世代ロボットプログラミング近藤E
+Best Match for Text A (line 14): ROS2ではじめよう次世代ロボットプログラミング近藤豊[著]
+Highest Jaccard Coefficient: 0.8276
+
+Original Text A (line 15): 新応用数学AppliedMathematics,
+Best Match for Text A (line 15): 新応用数学AppliedMathematics大日本図書
+Highest Jaccard Coefficient: 0.7500
+
+Original Text A (line 16): キーポイント線形代数
+Best Match for Text A (line 16): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Highest Jaccard Coefficient: 0.4348
+
+Original Text A (line 17): ROSプログラミング初の本格的入門書
+Best Match for Text A (line 17): ROSプログラミング初の本格的入門書8534
+Highest Jaccard Coefficient: 0.8095
+
+Original Text A (line 18): RaspberryPiROSロボット入門上田隆一で学ぶ
+Best Match for Text A (line 18): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Highest Jaccard Coefficient: 0.7812
+
+Original Text A (line 19): キーポイント線形代数2薩摩吉
+Best Match for Text A (line 19): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Highest Jaccard Coefficient: 0.5417
+
+Original Text A (line 20): 最新PicoW対応ラズパイPic完全ガイド福田和宏マガジンラズパイ2017720177
+Best Match for Text A (line 20): 最新PicoW対応!ラズパイPico完全ガイド福田和宏マガジンラズパイ日経BP20177
+Highest Jaccard Coefficient: 0.8750
+
+Original Text A (line 21): PROSロボットプログラミングではじめる
+Best Match for Text A (line 21): ROS2ではじめよう次世代ロボットプログラミング近藤豊[著]
+Highest Jaccard Coefficient: 0.5333
+
+Original Text A (line 22): SimultaneesLocalizationandMapping|SLAM入門トの自己位置推定と友耕正裕)一の技術ONE
+Best Match for Text A (line 22): SimultaneousLocalizationandtaneousMappingSLAM入門ロボットの自己位置推定と地図構築の技術友納正裕MasahiroTomonoOMIOhms[著]
+Highest Jaccard Coefficient: 0.6316
+
+Original Text A (line 23): キーポイント線形代数2薩摩順吉
+Best Match for Text A (line 23): キーポイント線形代数薩摩順吉四ツ谷昌二岩波書店
+Highest Jaccard Coefficient: 0.5833
+
+Original Text A (line 24): ROLロボットプログラミングバイブル
+Best Match for Text A (line 24): ROSロボットプログラミングバイブル表允晳・倉爪 亮・鄭黎蝹共著
+Highest Jaccard Coefficient: 0.5000
+
+Original Text A (line 25): KINECTHACKERSMANUALキネクトハッカーズマニュアル西林+小野史Auties
+Best Match for Text A (line 25): KINECTHACKER'SMANUALキネクトハッカーズマニュアル西林孝+小野憲史著Ruteles
+Highest Jaccard Coefficient: 0.8605
+
+Original Text A (line 26): 新線形代娄LinearAlgebr
+Best Match for Text A (line 26): 新線形代数LinearAlgebra大日本國書
+Highest Jaccard Coefficient: 0.6667
+
+Original Text A (line 27): 情報科学に上げるモデル確率システムにおける制御理論
+Best Match for Text A (line 27): シリーズ情報科学における確率モデル6確率システムにおける制御理論向谷博明【著】コロナ社
+Highest Jaccard Coefficient: 0.5526
+
+Original Text A (line 28): 0
+Best Match for Text A (line 28): 02Linuxvi金光雅夫著
+Highest Jaccard Coefficient: 0.0769
+
+Original Text A (line 29): はじめてのターン認識平井有三著al
+Best Match for Text A (line 29): はじめてのパターン認識平井有三著8497
+Highest Jaccard Coefficient: 0.6818
+

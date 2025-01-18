@@ -1,0 +1,92 @@
+Text A (line 1): O詳解OpenCV3コンピュータブラリを使った画像処理・認識AdrianKaehlerGaryBradski小永田雅人、花形O'REILLY
+Best Match in Text B (line 52): 詳解OpenCV3AdrianKaehlerGaryBradski松田晃一、小沼千絵著永田雅人、花形理訳O'REILLY
+Highest Similarity Ratio: 0.7576
+
+Text A (line 2): MasteringROSforRoboticsProgrammingLentinJosephPACKT
+Best Match in Text B (line 68): MasteringROSforRoboticsProgrammingLentinJosephPACKT*
+Highest Similarity Ratio: 0.9905
+
+Text A (line 3): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.SmartO'REILLY谷夫
+Best Match in Text B (line 35): プログラミングROSPythonによるロボットアプリケーション開発MorganQuigleyBrianGerkeyWilliamD.Smart河田卓志監訳松田晃一、福地正樹、由谷哲夫訳O'REILLY
+Highest Similarity Ratio: 0.8743
+
+Text A (line 4): ・PB・GLACE'S[確率ロボティクス]SebastianThruWolframBurgard,andDieterFox・パーカード、ディーター・フォックス著上田隆一w.マイナビ
+Best Match in Text B (line 193): [確率ロボティクス]SebastianThrun,WolframBurgard,andDieterFoxマイナビセバスチャン・スラン、ウルフラム・バーガード、ディーター・フォックス著上田隆一訳
+Highest Similarity Ratio: 0.7660
+
+Text A (line 5): 行列プログラマーPythonプログラムで学ぶ線形代数PhilipN.Klein松田++日本佑紀+ORERLY中田洋+藤大
+Best Match in Text B (line 57): 行列プログラマーPythonプログラムで学ぶ線形代数脳をリバースPhilipN.Klein著松田晃一十弓林司+脇本佑紀+O.REILLY中田洋+齋藤大吾訳
+Highest Similarity Ratio: 0.8345
+
+Text A (line 6): GOTOP使用RaspberryPi6實戰ROS機器人自作上田隆一著許郁文請CHO219
+Best Match in Text B (line 39): GOTOP使用RaspberryPi實戰ROS機器人自作上田隆一著許郁文譯CH0219
+Highest Similarity Ratio: 0.9438
+
+Text A (line 7): ラズパイ自由自在電子工作パーツ制御完全攻略17101
+Best Match in Text B (line 86): ラズパイ自由自在電子工作パーツ制御完全攻略松岡貴志著ラズパイマガジン編日経BP11191
+Highest Similarity Ratio: 0.6944
+
+Text A (line 8): 実用ロボット開発のためのROSプログラミング関公俊内洋平大川1号限中石田裕太郎裕太KRO
+Best Match in Text B (line 34): 実用ロボット開発のためのROSプログラミング西田健・森田賢・岡田浩之原祥尭・山崎公俊・田向権垣内洋平・大川一也・齋藤功田中良道・有田裕太・石田裕太郎共著6758
+Highest Similarity Ratio: 0.5714
+
+Text A (line 9): berryPiで学ぶROSロボット入門上田隆一回
+Best Match in Text B (line 138): berryPiROSロボット入門上田隆一日経3929-9
+Highest Similarity Ratio: 0.7778
+
+Text A (line 10): RaspberryPiROSロボット入門・学ぶ上田隆一
+Best Match in Text B (line 38): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Highest Similarity Ratio: 0.7576
+
+Text A (line 11): laspberryPiROSロボット入門上田で学ぶ上田隆一目
+Best Match in Text B (line 40): aspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Highest Similarity Ratio: 0.7059
+
+Text A (line 12): RaspberryPiROSロボット入門上田隆一で学ぶ39249
+Best Match in Text B (line 38): RaspberryPiで学ぶROSロボット入門上田隆一日経BP3929-9
+Highest Similarity Ratio: 0.8169
+
+Text A (line 13): ROSロボットブバイブル
+Best Match in Text B (line 192): ROSロボットプログラミングバイブル表允晳・倉爪 亮・鄭黎蝹共著
+Highest Similarity Ratio: 0.5217
+
+Text A (line 14): ROS2ではじめよう次世代ロボットプログラミング近藤
+Best Match in Text B (line 191): ROS2ではじめよう次世代ロボットプログラミング近藤豊[著]
+Highest Similarity Ratio: 0.9310
+
+Text A (line 15): 最新PicoW対応יラズパイPic完全ガイド|福田和宏マガジンラズパイ20177BP20177
+Best Match in Text B (line 137): 最新PicoW対応!ラズパイPico完全ガイド福田和宏マガジンラズパイ日経BP20177
+Highest Similarity Ratio: 0.8817
+
+Text A (line 16): PROSロボットプログラミングではじめる小倉工学社
+Best Match in Text B (line 42): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Highest Similarity Ratio: 0.5970
+
+Text A (line 17): ROSプログラミング初の本格的入門書
+Best Match in Text B (line 36): ROSプログラミング初の本格的入門書8534
+Highest Similarity Ratio: 0.9048
+
+Text A (line 18): LAM入門ロボットの自己位置推定と地図の技術友缺正品ONY
+Best Match in Text B (line 69): SimultaneousLocalizationandtaneousMappingSLAM入門ロボットの自己位置推定と地図構築の技術友納正裕MasahiroTomonoOMIOhms[著]
+Highest Similarity Ratio: 0.4160
+
+Text A (line 19): ではじめるR003ロボットプログラミング小倉
+Best Match in Text B (line 42): IOBOOKSROSではじめるロボットプログラミングDownLoad小倉崇工学社
+Highest Similarity Ratio: 0.5938
+
+Text A (line 20): ROSプログラミング初の本格的入門書
+Best Match in Text B (line 36): ROSプログラミング初の本格的入門書8534
+Highest Similarity Ratio: 0.9048
+
+Text A (line 21): これ1冊でできラズベパイREKEWで話しダウンロード手のひらサLinux完全ガイド·福田和宏「マガジンラズパイENBP20171BP26177
+Best Match in Text B (line 137): 最新PicoW対応!ラズパイPico完全ガイド福田和宏マガジンラズパイ日経BP20177
+Highest Similarity Ratio: 0.5128
+
+Text A (line 22): これ1冊で手
+Best Match in Text B (line 85): これ1冊でできるラズベリー・パイ超入門ラズパイを使い倒そう!「改訂第3版」ソーテック社
+Highest Similarity Ratio: 0.2353
+
+Text A (line 23): 
+Best Match in Text B (line 129): 合格平成29年度
+Highest Similarity Ratio: 0.2000
+
